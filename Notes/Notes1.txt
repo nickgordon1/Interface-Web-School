@@ -1,0 +1,123 @@
+Adobe Creative Cloud Account -60 day free trial
+
+What is a developer?
+Web- Builds websites (static) 
+Programmer- typlically run offline(changing with time) run programs (independant)
+Hacker- security professional
+Web Application- you can interact wiht it
+Front end Developer- writes all code that you can see and touch(client side) (runs in the browser)
+*Create the internet
+*Fix code
+*Implementing Designs
+*Industry changes more then any other in the world
+*HTML CSS JavaScript are every where!
+*They have to work with designers
+*Design MATTERS!
+	-Look at other designs to develop yours.m(your eye for design)
+*Creates interface
+
+Back end Developer- Behind the scenes server side code(server side) (runs on an actual computer)
+
+DNS Domain Name Server
+HTML CSS JavaScript
+JavaScipt is not a programming language yet
+PHP and Java are back end server languages
+jQuery- Libararies
+Library and Framework
+github.com
+Bootstrap (created by Twitter)
+Look at other designs to develop yours.
+TOOLS
+-Image Editor
+Adobe Suite PhotoShop
+Infinity Photo*MAC*
+Pixelmator 30$ (does image editing and vector editing)*MAC*
+Sketch just for interface *MAC*
+-Text editor
+Brackets
+-Version Control
+GIT (shows what you changed) Multiple can edit it at the same time.
+-Boilerplates 
+-Libraries (set of code that you can use as little or as much as you want)
+-Frameworks (changes how you write your code)
+-Preprocessors (write your own version of css and put it in to the preprocessors would put it how you'd need it)
+SAS
+LES
+CoffeeScript
+Day to Day
+Review
+Q&A
+Small in class assignments
+End of day assignments
+Overall course project
+Additional reading
+Links to valuable resources
+Extra assignments
+
+Course Overview
+
+First Half
+Intro to HTML, CSS, and JS
+Usability and Design
+Pure HTML
+Pure CSS
+HTML + CSS with tools
+Halfway: Reviews and Tests
+Companies are looking at tests!
+
+Second Half
+Pure JavaScript (Ask the dumb questions!!)
+JavaScript with tools
+jQuery
+Enhancements and Tricks
+Portfolio and resume prep
+
+HTML is a markup language. Actually just a plain text file.
+File extension .exe, .jpg, .txt
+Hyper Text Markup Language
+Documents that could link to other documents
+Built up by tags or elements
+Made for organizing things
+Websites know how to read these tags
+Tags are what the browser looks for to grab the information that it was tagged to.
+W3C world wide web consordium (a group that made rules on how HTML works)
+The browser has all the power
+HTML is just rules... that is all (rule set)
+CSS is a rule set
+HTML2, HTML3, ect are just more rule sets
+
+CSS is the skin the HTML bones
+Cascading Style Sheet
+CSS is a list of styles for your HTML
+Some CCS wile overwrite other CSS (FOOD CHAIN)
+Colors, spacing, and arrangment
+CSS is just rules
+Broswers have the power
+CSS2 and 3 are just other 
+
+Selector
+Properities
+Values
+
+JavaScript
+Runs in the browser
+You can actually change your html on the fly
+JavaScript loads after your HTML and CSS have loaded
+Not acually a language yet, but will be soon
+Talk to other languages
+Can talk to other servers
+JavaScript is messy (a lot of ways to do things)
+JavaScript is watching what you type.
+JavaScript is not a secure language at all
+
+
+
+
+
+
+
+
+
+
+
+

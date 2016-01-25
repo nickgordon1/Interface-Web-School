@@ -1,0 +1,72 @@
+Tools
+Boilerplates: Fancy word for templates
+typlically one static file
+Libraries: big chunks of prewritten code
+They store these chunks in to variables
+Frameworks: Something you write your code in.
+It changes the way the language talks
+Preprocessors: It processes your code into real code.
+eg, SAS 
+
+How to choose a tool (Essentials)
+
+How big and active is the communtiy
+how active are the developers
+how reputable are the devs
+how long has the project existed or survived
+what are the competitors
+why is this project better then comp.
+how big is the learning curve
+how good is the documentation
+how is the compatibility
+
+Lifetime
+documention
+community
+development team
+learning curve
+compatibility
+
+Version Control eg, Git or SVN
+keeps track of changeds you make
+helps collaborate with others
+creathe differnet versions of your idea
+helps you share code for the world
+helps you contibute to other projects around the world
+
+How it works
+Git
+It keeps the first version of your code
+it records every changes you make
+it keeps a log of your changes
+takes your first version + changes you get your finished producted
+
+SVN
+Keeps copies all your files and folders
+Hard to merge and working at the same time.
+Takes up a ton of space! It copies your files every time you change something.
+
+HTML HEAD BODY this makes a valid html code
+
+CMS is an admin panel
+Content Managment System
+
+CDN
+Content Delivery Network
+Is a network of computers that holds you content to be retreived later.
+It takes copies of your files and disperses them to servers where the data is being requested
+1024 units starts bytes
+8 bits in a byte
+upload is a quarter of your download
+Caching(saving files on your hard drive)
+Everything or nothing
+No universal accepted one...
+cdnjs.com
+
+FTP file trasnfer protocol
+That alows you to request or add files from other servers
+Hosting cheaper more work expensive less work
+namecheap.com
+name.com
+
+

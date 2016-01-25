@@ -1,0 +1,119 @@
+Design usiblity
+Assignment!: Pick three sites of any kind from any where. write down two things you like and two things you dislike.
+
+jobhero.com
+dice.com
+
+
+Site 1:www.warof1996.com
+LIKE-color scheme orange green blue black 
+interactive features
+
+
+DISLIKE-can be unclear what does what
+the animations can come off like clip art
+
+
+Site 2:shft.run
+LIKE-color scheme blue white grey brown/gold
+love the text
+
+
+DISLIKE-lack of direction on the sites
+feels very inhuman for such a human product
+
+
+Site 3:larioliving.it
+LIKE-interactive menu made the site feel alive
+everything seems to be on one page even when you select a different link
+made patterns and images out of the background to great affect!
+
+
+DISLIKE-color scheme white and grey
+transitions came off a little sluggish
+
+sketching
+
+something you do when yiuve figured somehting about your content.
+Pencil and paper usually
+this will create educated opionions
+brain dump-messy
+eg just write down words associated to a brand
+its about the process
+visiual thinking
+it would be mainly about the layout
+sketching multiple layouts
+once its on paper you can free your brain
+unlike using photoshop your not confined from whats on the screen
+use boxes and write on boxes about what they are
+dont concentrate on making a perfect picture
+create all the alternitves you can think of so you can free your mind
+write down key points of your design
+make a lsist of other information that will be on this page
+make sure your notes sections and drawings are staright forward so when you refer to them you can fremember what you were thinking
+keep things simple
+MAKE A WEBSITE FOR A CLAN OR GROUP ON A GAME REFER TO ALEX!!!
+use 10 variations of something for small things like where to put a search bar
+use broad approches even if you know you wont like it you might surprise your self
+header navaigation video features spec list photo gallery contact forum 
+call to action each page has a purpose
+each action has a call to action
+
+once you have a layout you should have a number of ittarations of the site
+how to itterate on your sketch or improve it
+how are you guiding their eyes is the message obvious
+
+Wireframing
+digital sketch
+use the actual text use actual messurements
+make sure the wireframe focus on the content of the project and the way the content is presented
+your trying to avoid from to many distracting elements so you can easily see the flow of the website
+well designed wirefram shoukd have well written conent and displayed in a usefuk matter
+the final conent on these wireframes is the most important content
+build in blocks
+one piece of the design at once
+what are the actual mesurements, can my content fit in there?
+blocking also allows you see and manage certain pieces of the site
+implmemt good content hieracrhy 
+placement font weigths and sizes white space and alignment
+you want to refine as much as possible during this phase.
+you should consider how it would look on mobile
+
+grids
+white gutter green column
+12 columns 960 980 grid width gutter width can be up to you
+media querys
+how do you wire frame
+balsamiq wire framing site
+
+Prototyping
+usability and experiacne
+invision invisionapp.com
+atomic atomic.io (hybrid)
+
+assignment due tuesday
+go to balsamiq sketch an app for ordering pizza!!!
+SKetch get out paper first multple versions
+then go to balsamiq make a wire frame
+sketching will take longer
+step back anaylyze what you like and dislike and take notes on it.
+
+Extra assignment!
+slack link!!
+to basically sketch and wireframe your own personal site
+should be one page
+should be simple
+this should be on going
+keep it SUPER simple
+maybe simple bio
+share your wireframe in slack
+every assignment will be to add it to your personal site
+worry about finishing!
+
+
+
+
+
+
+
+

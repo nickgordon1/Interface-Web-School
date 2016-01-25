@@ -1,0 +1,209 @@
+Design
+
+Color Theory:
+Colors are not just colors
+Colors affect us in mental ways
+Culture and time
+red orange green blue violet colors
+Red Blue Yellow: Primary Colors
+Violet Orange Green: Secondary Colors
+Tertiary colors 
+Warm colors
+Cool Colors
+The Additive color model:
+RGB color model you use that to display any colors on a screen
+Each pixel has RGB lens on them
+0-255
+Intesnity of the color comes from light
+Digital you have to add all RBG colors to make white
+R:0-255
+G:0-255
+B:0-225
+0 is black 255 is white
+Hex codes are RGB
+Base ten when you get to 9 you move over and get an additional digit thus 10
+Hex is base 16 so at 123456789abcdef
+Hex is just RGB
+Hex is a maximum of 6 characters
+
+Color meanings:
+
+Red- Energy, War, Passion, Love, Agression. These are obviously objective.
+Contrast can come off aggressive or cold.
+Increases resperation rates and heart rates
+High visibilty 
+High Impact and Powerful
+
+Orange: Youthful and Impulsive
+Balancing
+Creativivty, Orange, Fruit, Child, Youthful
+
+Yellow: CLear thinking and quick desicion making
+Cowardness, Creativity, Energy, Danger
+
+Green: Natural Vibarent
+SPring, Growth, Stability, Money, Recycling, Nature, Grass
+
+Blue: conservitive
+Sea, Sky, Trust, Intelligance, Professional, Intrest, Calming, Organization
+
+Violet
+Royality, Ambition, Magic, Mystery, Rich, Energetic, Luxary
+
+Color blindeness!
+There are filters so you can see how your site will look with each affliction
+
+Flatten out colors: Desaturation eg, Google
+
+White:
+Innocenence, Complete, Boldness, Edgy
+
+Grey:
+Timeless, Sophisticated, Not a lot of positive things
+
+Black:
+Protection, Formal, Mysterious
+
+Color schemes
+An arangment of colors that you can use through out your site
+
+eg, Mono cromatic
+
+Hue:Color
+Chroma:purity
+SaTURATION: STRONG OR WEAK A COLOR IS
+value: how light or dark a color
+tone: adding a grey to a color
+shades: adding black to a color
+tint: add white to a color
+
+Monochromatic:
+One hue 
+Various tints or shades of the selected color
+
+Analogous:
+creating hues that are next to each other on the color wheel
+Choose one as a main and then use the rest as accents
+
+Complenentary:
+Use opposites of the color wheel
+eg, vilolet and orange
+Media uses alot
+Use one the other for accents
+
+Split Complementory:
+use one color and then use the colors on the other sides of the opposite color
+a little more balanced
+Use one the other for accents
+
+Tradic:
+Three colors that are evenly spaced around the color wheel
+Use one the other for accents
+
+Tetradic:
+Pairing two sets of opposite colors on the color wheel so a total of four colors
+Use one the other for accents
+
+Best Practice:
+Pick your colors first on a project!
+Its better to do a little bit then not at all
+color.adobe.com a website for making color palletes
+
+Typography:
+Small differnaces or nuances in type have huge differances
+Thousands of type bases
+Choose from legands
+Know your font familys
+Helvetica, Arial, ect
+Sans sereph and sereph
+Sereph: the curlies on the type
+Dont combine similar fonts
+contrast is key
+Stick to two max three
+Dont mix differant moods
+Use differant weights
+Get good with weigths like the boldness
+Avoid comic sans, Curls, Opirus
+Books: Stop Stealing Sheep and find out type works
+
+
+(UX) User Experience:
+Creating a sustainable enjoyment or perception of long term value
+UCD: user centered design (where are they from, how old, nationality)
+What works asethically might not always work in practial uses or execution
+The more complicated the worse the experiance will ben less likley it will be enjoyable
+the longer the user stays on the site or app they will convert. (sign up or download)
+AB testing  Version A or Version B test the examples randomly
+Facebook!
+Personas: fictious users. So you can see perspectives
+User stories or Journies or flow:
+Its the journey the user would take to get from point a to b.
+UX as a whole is RESEARCH!
+Card and bucket test
+Dont make me think BOOK!
+Check amazon for reviews on books
+
+(UI) User Interface:
+Providing a system to interact with your product or service
+Giving them the tools they need
+Be consistent with your interface
+Obvious and intutive layout
+Onboarding if you absolutley belive your non intuitive way is best
+USe clear messages or labels
+Dont use terms taht youll understand
+To DOs
+Understand user behavoor
+identify aspects of your page that influence the user
+Identify user behavior in terms of engagment
+research behavioral trends
+Understand the motor or mood of users
+
+(UCD) User Centered Design:
+The 6 Do's to think about
+Explicit undersatnd of users, enviorment
+users are involved
+design is driven and refined by user centered evaluation
+process is iterative
+the design adresses the whole user experiance
+the design team has multiple skills and perspectives
+Who are the users of the site
+What are the users tasks or goals
+what are the users experiance levels with the site or sites like it
+what functioons do the users need form the site
+what information might teh user need and in what form
+how do users think the site should work.
+what are the extreme enviorments
+is the user multitasking
+does the interface utilize other input modes
+
+Elements of UCD
+Visiblity
+Accessibilty
+legibility
+language
+audience
+purpose
+context
+
+Resources!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

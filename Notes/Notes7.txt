@@ -1,0 +1,102 @@
+Week 3
+Intro to HTML and CSS
+
+Elements:
+HTML is a document (plain text file)
+they are made of tags
+hyper text mark up language
+file formats tells the computer how to open it
+derived from xml (xml is ooolllddd)
+xml was made to store data
+in xml you make up the tags. (for catogoerizing)
+HTML is just made to organize things
+HTML is just the bones
+a tag is just a <insert tag here></insert tag here>
+the browser is the only thing that can open an HTML the way it is supposed to be viewed
+W3C world wide web consordium
+They decide the rules that will apply to HTML
+New versions of HTML are just new rulesets
+Also have attributes= ways of storing other information
+common attributes:
+class-Name things (you can reuse it)useful for css so you can add the same thing to multiple things
+id-Name things (javascript)(have to unique) useful for java so you add something to one thing
+name-form input fields (drop down menus)
+style-dont use it! if you see it its bad 
+href
+src
+Structure elements:
+document type aka doc type <!DOCTYPE html>
+lower case your tags
+HTML <html lan="en"></html>
+Head - just for browser(never be renderened on page)<head></head>
+Header - is a label
+Body- <body></body> everything goes here for your website
+browsers had default styles for some elements
+normalize(reset to something) or reset(wipes clean) (libraries)
+
+Content Elements
+holds or displays your conent
+headings h1-biggest text h2 h3 h4 h5 h6-smallest text
+paragraph p
+link a
+image img
+span <span> </span> for non layout things
+h1 use once h2 use once
+
+Container elements
+just for layout
+for structyring your page
+dividers or organiziers 
+div-divider identical to footer header and nav (block level element)will not go along side anything
+form-visibily wont do any thing (it will send the data thats in it to some place else)<form action=""
+method=""></form>
+methods:get and post (get is not secure)post if for private information (it is sent one time one way and encrypts it)and tells the browser that you sent a forum
+table-really old way of strucuring your entire layout looks like an excel spreadsheet row column cell
+only use a table if your laying out tabulor data (if it looks like a excel speadsheet)
+<table>
+	<tr>
+		<td></td>
+		<td></td>
+		</tr>
+		</table>
+		to add a header would be <th></th>
+list- <ol> and <ul> ordered list and unordered list li is list item
+<ol>
+	<li></li>
+</ol>
+
+<ul>
+	<li></li>
+</ul>
+
+Assignment:
+1)Use the design file and your repo
+2)Create an HTML file
+3)Write out at least two new sections of the design
+4)Wrap it in tags, choose wisely
+ jsbin.com
+ HTML 5 Boilerplate
+ 
+ put images in image folder
+ input tags where input fields should go
+ content
+ 
+ input tag is a self closing tag
+ 
+ <input type="" placeholder="" value="" name=""/>
+ <label></label>
+ radio is a single ball button
+ USE LABELS ON BUTTONS!
+ drop down is:
+ <select>
+ <option></option>
+ </select>
+ 
+ <button></button>
+ 
+ mdn
+ w3schools.com
+ csstricks
+	
+
+

@@ -1,0 +1,106 @@
+Download adobe photoshop
+Creative cloud account
+
+DO EXTRA ASSIGNMENT!
+Personal site
+
+Be familar with photoshop not an expert
+Know common patterns and how people do things
+how to find things out
+Where things are in menus
+how designers organize files
+Optimize images for the web
+this will increase overall performance of your website
+Know how to export details from a design
+
+Details!
+Assignment HELP HERE!
+Export Images, Icons, Gradients, Shadows, Fonts, Colors, Size/Spacing
+Programs and formats
+Photoshop is almost universal
+Freelancers or consultants who do the design work for the company you usually cant get any additional helpf rom them
+adobe photoshop and adobe illustrator
+csX creative suite x
+cc(year) creative cloud x
+yearly subsciption
+All subscription base
+Educational discounts
+Everything 50.00
+15.00 per program
+Adobe indesign - layouts magizines newspapers
+Sketch only does interface design 30.00 one time fee
+*cant modify photos
+Affinity Designer Mac only 30.00 one time
+vectors
+Affinity Photo Mac only 30.00 one time
+working with designs and photos
+Pixelmator Mac only 30.00-40.00 one time
+Vector and Design
+Formats!
+.jpeg or .jpg - photo (it would make color profiles for poopy monitors) can differ pc to pc
+.png - portable network graphic *ping images* (it tells the computers what the color profile is but it will always be a bigger file)
+It can also use transperancy
+.svg scalable vector graphic (vector image mapping)doesnt store image is stores a map of an image
+this means its scalable without degradation
+A font is techinally a svg
+svg can be opened with a text editor
+it has its own language
+the more the complex the image the larger the file will be.
+.psd photoshop document
+.ai adobe illustrator file
+.gif animated image Stores frames of images
+ping images can barley be optimized
+Logos always need to be in pings (for transparency and correct colors)
+Most brand work is done with vectoring
+svgs are for icons taht you want to scale or recolor
+
+Responsibilities
+Design related
+-optimize images for the web
+-finding assets in the design file
+-exporting the right items in the right way
+-use good file naming conventions (use good file names)
+-ask questions about the design to the designer that your not sure about (dont bother them to much)
+-dont modify the design (any aspect of the design ever)
+Exporting Assets
+
+Assignment is to get all export data (Images, Icons, Gradients, Shadows, Fonts, Colors, Size/Spacing) from an image
+Check liscencing at the end of a project
+zoommy app maybe mac only (free photos)
+www.flaticon.com indexs of free icons
+
+toolbar on the left
+zoom tool zooms
+small arrow on tool bar is more tools
+to remove grid or guide you can go to view clear guide
+repo folder (github) (index file)
+put note file in repo folder
+Eyedropper gets colors
+eyedropper adds it to your primary color
+double click primary color 
+text tool
+-photoshop menu
+-preferences
+-units and rulers
+-change drop downs to pixels that you can
+move tool to find logo
+auto select to layer> this will highlight the layer
+export logo process> select it and export or isolate and then export
+right click on layer convert to smart object
+Almost always make it a smart object
+Marquie tool- select an area 
+file>export>export as>export all>dump in repo github file
+export as has all the optimizing for the web tools
+on a jpeg lower the quality until it makes a differnce and that would optimize it. zoom in a bit for a higher optimization
+usually 70-75%
+if drop shadow is multiply check if normal changes alot
+if it does change a lot you have make a note so you can tweak it in css with opacity and color
+
+
+
+
+
+
+
+
+

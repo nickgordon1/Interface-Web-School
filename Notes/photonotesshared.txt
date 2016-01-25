@@ -1,0 +1,225 @@
+nav bar background color: acd373
+
+main nav:
+-font: source sans pro black
+-font color: f7f7f7
+-font-size: 18px
+
+navbar shadow:
+opacity:6%
+angle:120
+distance:5px
+spread:0%
+size:5px
+color:000000
+
+first section background: 9abd67
+
+Header 1 text 
+font: source sans pro black
+size:48px
+color:f7f7f7
+
+Header 2 text:
+font: DroidSerif Italic
+color: f7f7f7
+size: 24 px
+
+second section background: f7f7f7
+
+WhoWeAre texthead:
+font:source sans pro black
+color: f7f7f7
+size: 30 px
+
+WhoWeAre textparagraph:
+font:source sans pro black
+color:f7f7f7
+size:18 px
+
+LearnMore text:
+font:source sans pro regular
+color:acd373
+size:18 px
+
+OUR text: 
+font:source sans pro regular
+color:454545
+size:30 px
+
+SERVICES text:
+font:source sans pro regular
+color:acd373
+size:30 px
+
+OURSERVICES quote text:
+font:Myriad Pro Regular
+color:454545
+size:18 px
+
+OURSERVICES Section background: f7f7f7
+
+OURSERVICES bullet text:
+title font:source sans pro bold
+title color:acd373
+title size:20 px
+description font:Source Sans Pro Regular
+description color:454545
+description size:18 px
+
+OURTEAM text:
+font:source sans pro regular
+color:f7f7f7
+size:30 px
+
+OURTEAM quote:
+font:droid serif
+color:f7f7f7
+size:18 px
+
+OURTEAMNAMES text:
+font:source sans pro bold
+color:acd373
+size:20 px
+
+OURTEAMSJOBS text:
+font:droidserif italic
+color:787878
+size:16 px
+
+AREYOUTHENEXT text:
+font:source sans pro regular
+color:f7f7f7
+size:18 px
+
+WEAREHIRING text:
+font:droidserif italic
+color:f2f2f2
+size:18 px
+
+OURRECENTWORKS text:
+font:source sans pro regular
+color:454545 (our recent) acd373 (works)
+size:30 px
+
+OURRECENTWORKS quote text:
+font:droidserif
+color:454545
+size:18 px
+
+OURRECENTWORKS IMAGES text:
+background color:ebebeb
+
+Title:
+font:source sans pro bold
+color:454545
+size:18 px
+
+Description:
+font:droidserif italic
+color:787878
+size:16 px
+
+VIEWALLWORKS text:
+font:droidserif italic
+color:acd373
+size:18 px
+
+VIEWALLWORKS background color: ebebeb
+
+TESTIMONIALS text:
+font:source sans pro regular
+color:f7f7f7
+size:30 px
+
+TESTIMONIAL PARAGRAPH text:
+font:source sans pro regular
+color:f7f7f7
+size:18 px
+
+GIVE TESTIMONIAL text:
+font:droidserif italic
+color:acd373
+size:18 px
+
+ACTUAL TESTIMONIAL text:
+font:droidserif
+color:f7f7f7
+size:16 px
+
+ACTUAL TESTIMONIAL PERSONAL INFO text:
+(NAME)
+font:source sans pro bold
+color:acd373
+size:18 px
+(COMPANY)
+font:droidserif italic
+color:f7f7f7
+size:18 px
+
+BLOG TEXT:
+(BLOG)
+font:source sans pro regular
+color:454545
+size:30 px 
+(BLOG QUOTE)
+font:droidserif
+color:454545
+size:18 px
+
+BLOG ICON color: bad88e
+
+BLOG TITLE Background color:ebebeb
+
+BLOG READ MORE text:
+font:droidserif italic
+color:f7f7f7
+size:14 px
+
+BLOG READ MORE Background color:acd373
+
+NEWSLETTER Background color:acd373
+
+NEWSLETTER text:
+font:source sans pro regular
+color:f7f7f7
+size:18 px
+
+EMAIL BUTTON text:
+font:droidserif italic
+color:f7f7f7
+size:14 px
+
+CONTACT Background color:acd373
+
+CONTACT INFO Background color:9abd67
+
+CONTACT HEADER text:
+font:source sans pro regular
+color:f7f7f7
+size:30 px
+
+CONTACT "NAME,EMAIL,MESSAGE" text:
+font:source sans pro regular
+color:f7f7f7
+size:18 px
+
+CONTACT "NAME,EMAIL,MESSAGE" FIELD text:
+font:droidserif italic
+color:f7f7f7
+size:15 px
+
+CONTACT SEND BUTTON Background color:9abd67
+
+CONTACT SEND BUTTON text:
+font: droidserif italic
+color:f7f7f7
+size:18 px
+
+COPYRIGHT text:
+font:source sans pro regular
+color:f7f7f7
+size:18 px
+
+FOOTER Background color:9abd67
+

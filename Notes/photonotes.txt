@@ -1,0 +1,23 @@
+Images: (icons and images)
+
+Colors: (Hexidecimal values)
+
+Fonts:
+
+Font size:
+
+Font weight:
+
+Line height:
+
+Gradients:
+
+Shadows:
+
+Logo:
+
+Icons:
+
+Spacing and Size:
+
+
