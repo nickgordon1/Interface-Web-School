@@ -1,0 +1,130 @@
+cascading style sheet (css)
+skin to html bones
+contains layout spacing layering
+can do animations
+its new for animations
+its easier than javasript animations
+css is rules sets
+it is just a plain text file that doesnt nothing on its own
+css is simple syntax
+SELECTOR
+PROPERTY
+VALUE
+
+/* comment */
+
+html has commnets aswell . it is multi line <!-- comment -->
+front end code is visible to everyone
+anybody can look at it at any time
+and mess with it
+HTML comments are public
+USE COMMENTS going forward for projects
+HTML coments are rare.
+they are handy for notes but not really in the real world
+
+what does it look like?
+
+selector{
+propery: value
+}
+
+selectors: are the most complex part of css
+the selector engine is so powerful it has been made to be used in javascript
+jQuery uses css selector engine
+
+sizzle css selector engine is the jQuery selector engine
+selector types:
+element selector: div {}
+class selectors: .myClass {}
+id selectors: #myId {}
+
+example for multiple selectors:
+
+div,a,span {} is not the same as div a span {}
+.MYCLASS {} is not the same as .myClass {}
+
+refer to slack preston jsbin
+
+jsfiddle like jsbin
+
+
+PROPERTIES:
+get familiar with syntax
+properties have dashes which represent spaces
+USE BRACKETS it knows the css properties and completes the value
+always all lower case
+some times can be combines
+short hand properties almost always has a group
+can all be combined
+property order does matter
+the bottom of the list is whats applied
+eg multiple colors
+unique label you can put 
+
+
+color:orange !important;
+
+!=bang
+important markers will overwrite code
+don't use them to fix things.
+its improper coding css
+
+vendor prefixes:
+vendor you slap on to the beggining of the property
+early implementations of global browser properties
+
+always start with a dash
+-moz
+-webkit
+
+ASSIGNMENT!
+Practice CSS syntax
+
+more properties
+
+background:  with alot of others with it
+
+color: just for text
+
+font: a bunch of sub properties just like background
+
+border: bunch of sub properties puts a border around an element
+use borders in certain display modes
+
+text-align: aligns entire elemenst center left and right
+
+text-decoration: only common to links
+
+most css properties has a value of none
+you can always reset a value or property
+using to remove a underline to a link or add a underline to text
+
+cursor: this changes the cursor
+usually used to turn off and on
+pointer (finger)and default(pointer)
+
+* {} : all (select all)
+
+a.green {}
+
+div a {}
+
+div > a {} :direct desendant
+
+a:hover {} will only have things change when hovering over
+
+input[type="text"] {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
