@@ -105,6 +105,12 @@ header a {
 h3 {
     font-size: 30px;
     font-family: "Source Sans Pro";
-    font-weight: bold;
+    font-weight: normal;
     color: #454545
+}
+.who p {
+    font-family: "Source Sans Pro";
+    font-weight: normal;
+    font-size: 18px;
+    color: #454545;
 }
