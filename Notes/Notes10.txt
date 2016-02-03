@@ -1,0 +1,141 @@
+advanced selectors
+
+/* Sibling */
+a + span {}
+
+/* nth of type */
+nav a:nth-of-type(1) {}
+
+/* nth child */
+div a:nth-child(2) {}
+
+/* General sibiling */
+span ~ a {}
+
+/* Attribute contains */
+a[href*="google"] {}
+
+/* First of type */
+a:first-of-type {}
+
+/* Last-of-type */
+a:last-of-type {}
+
+css tricks-nth tester
+
+units of measure
+
+em:14em - default font size (scale with the page!) using in margins and such
+rem:14rem - new unit root m (highest level of your document whatever the font size is there) desired diveded by default
+pixel:14px
+point:14pt - normal for document use(not the same as pixels) up to the browser never use points!
+percent:14% percenatages are relative
+
+color formats
+
+word: yellow
+hex: #01a4c0 or #111 prefered needs # mark!! no way to do transparent colors
+RGB: rgb(241 ,44 ,100) theres never a time you'd need this
+RGBA: rgba(0, 0, 0, 0.5)
+the A is alpha goes 0-2 any time you want to do overlays of colors this is the font
+
+Common properties and shorthand
+div{
+background-color: #000000;
+background-image: url ('http://placehold.it/30x30');
+background-image: url(image.png);
+background-repeat: no-repeat;
+background-position: 50% 50%;
+background: #000000 url('img/image.png') top right no-repeat;
+}
+
+will overwrite all specific properties
+if bottom line doesnt have color and color line was at the top the color would be erased
+
+border-radius: 5px dont have to have any other border stuff
+border-width: 5px;
+border-type: solid;
+border-color: #3055928;
+border-top: 5px solid #305928;
+border: 2px(top) 5px (right) 2px(bottom) 5px(left);
+border: 2px(top bottom) 5px(sides);
+border: 5px(all);
+
+0-auto or inherit most common default properties
+
+font-family: 'Verdana', sans-serif;
+font-weight: bold; 
+(normal, bold, bolder)(numerical 100-900 by 100's)(custom fonts use numerical)
+font: 'Verdana', sans-serif bold;
+
+BE LAZY you don't have to type a ton
+
+text-align: right; (can also align elements)(left right and center)
+text-decoration: underline;
+color: #ffffff;
+
+fontsquirrel.com
+google.com/fonts
+dafont.com
+typekit.com/fonts
+
+using font base
+icon fonts
+can be put in svg (scales without pixelating)
+
+Width:     width: 300px
+-px,em,rem,%
+
+Height:     height: 200px
+-px,em,rem,%
+
+Overflow:       overflow: hidden
+-visible,hidden,scroll,auto (by default it's visible)
+
+CSS BOX MODEL save it
+
+padding makes your element larger
+pushes content in
+margin and padding
+border can be any size
+margin does not make your element bigger
+it pushes your element away from other things
+border lives outside of padding
+
+CUSTOM FONTS 
+	•	fontsquirrel.com
+	◦	free fonts. great font. have a generator
+	◦	has source sans
+	◦	Download OTF - downloads it on your computer. if it’s free -might as well. 
+	◦	Webfont Kit - for embedding
+	▪	Upload the font, extract the zip file. 
+	▪	Highlight all and click one. Will only have to click install once.
+	◦	Least secure 
+	•	google.com/fonts
+	◦	free fonts
+	◦	find it, click use
+	◦	Standard, import, javascript. 
+	◦	Link CSS file, and actually put the font in the css file
+	◦	Do links, not @import. 
+	◦	Do link tags in your HTML
+	◦	Know exactly what the name needs to be “step 4” in google. (spaces, caps, etc). 
+	◦	But does call to another server, so can be slower. 
+	•	duckduckgo.com
+	•	dafont.com
+	◦	good for perusing rather than embedding. 
+	•	typekit.com
+	◦	Supports heavily licensed font. 
+	◦	Have to tell it what domain name it’s one for it to be loaded. 
+	•	If it’s a free font, you don’t have to worry about license.
+	•	css-tricks: using font face. (good article to read).
+	•	There are icon fonts since they can be stored in SVG. Color it as if it is text. 
+	◦	If you put an icon in a font file - you can change the color and size. 
+
+start embeding fonts(download your fonts)
+add colors
+
+
+
+
+
+

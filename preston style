@@ -1,0 +1,16 @@
+.header {
+    background-color: #9abd67;
+    font-size: "48px";    
+}
+.h1 {
+    background-color: #9abd67;
+    font-size: "18px";
+    color: "#f7f7f7";
+    font-family: 
+
+}
+.h2 {
+    font-size: "30px";
+    color: "#f7f7f7";
+    font-family: 
+}
