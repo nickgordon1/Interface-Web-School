@@ -102,3 +102,9 @@ header a {
     margin-top: 132px;
     display: block;
 }
+h3 {
+    font-size: 30px;
+    font-family: "Source Sans Pro";
+    font-weight: bold;
+    color: #454545
+}
