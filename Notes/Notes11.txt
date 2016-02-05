@@ -1,0 +1,107 @@
+mdn just google all css selectors
+
+dont use id in your code
+
+, choose diferent selectors and spaces mean descendents
+
+class elements descendent an direct child MAIN SELECTORS
+
+hex and rgba are go tos for color
+
+Display Modes
+(built in browser styles)(display modes wont be reset)
+the core component to the actual layout
+div is and example of a block
+
+
+Block-
+display: block
+
+full width by default
+has a physical presence (things can colide with it)
+
+Inline-
+display: inline
+key differnce inline has no physical presence
+it doesnt push elements out of the way
+you cant use main properties
+can be aligned using text properties (text-align)
+in a line of text
+
+Inline-block-
+display: inline-block
+has a physical presence
+primarly inline but you can use all the properties you couldnt with inline
+elements will sit side by side
+can be aligned using text properties
+
+None-
+display: none
+this makes your element vanish
+turning things on and off
+
+visibility:0 makes your element see through
+display: none actually removes it
+
+Floats and clears
+
+should never ever use them
+small cases where you can use them
+if you can avoid them AVOID THEM
+eg; float: left
+floats will start to wrap things around your page
+value of left right and none
+
+Clear-
+eg; clear:left
+left right both and none
+they sit along side each other
+
+Positioning
+
+Position- 
+eg; position: absolute
+it moves elements onto a whole new plain
+static relative absolute fixed
+Z Index-
+eg; z-index: 5
+can accept negative numbers
+great for layering things on top of each other
+disadvantage: anytime the page resizes the elements stay in the specific spot
+relative-
+static-
+fixed- keep the element there when you scroll
+
+Reset.css and Normalize.css
+Eric Meyer reset.css
+google it
+
+reset wipes the board
+normalize resets but adds some stuff
+
+CHEATS
+
+</hr> in html and then have css tell what the hr should be
+background
+border-radius: 50%
+border-color: 
+border:
+line-height: to same value of height
+use divs to create profiles
+blockquote for quotes
+text-align and line-height will help alot for project
+contact:
+make a div for the input and then display:block so they have the same width once teh first width is set.
+<textarea></textarea>
+<form></form>
+
+
+
+
+
+
+
+
+
+
+
