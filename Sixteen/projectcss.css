@@ -370,6 +370,9 @@ div.map {
 .works ul {
     text-align: center;
 }
+.works li {
+    display: inline-block;
+}
 .works em {
     display: inline-block;
     color: #818181;
