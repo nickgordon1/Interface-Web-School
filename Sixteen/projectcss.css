@@ -377,7 +377,7 @@ div.map {
     font-family: "Droid Serif Italic";
     font-size: 16px;
 }
-.works h6 {
+.works h5 {
     display: block;
     color: #454545;
     font-family: "Source Sans Pro Bold";
@@ -386,4 +386,39 @@ div.map {
 }
 .works div {
     background-color: #ebebeb;
+}
+.works h4 {
+    color: #454545;
+    padding-bottom: 15px;
+    display: block;
+}
+.workslink a {
+    font-size: 18px;
+    font-family: "DroidSerif";
+    font-style: italic;
+    text-decoration: none;
+    color: #acd373;
+    border: 1px solid #acd373;
+    font-weight: normal;
+    line-height: 40px;
+    width; 141px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 7.5px;
+    padding-bottom: 5px;
+    padding-right: 7.5px;
+    margin-top: 80px;
+}
+.apps {
+    display: block;
+    background-color: #ebebeb;
+}
+.apps li {
+    display: inline-block;
+    vertical-align: middle;
+}
+.test {
+    background-image: url("Images/testimonialbackground.png");
 }
