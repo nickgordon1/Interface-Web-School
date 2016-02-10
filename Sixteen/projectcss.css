@@ -356,11 +356,31 @@ div.map {
     background-color: #f7f7f7;
     display: block;
     text-align: center;
-    padding: 35px;
+    padding: 100px;
 }
 .works h3 {
     font-family: "Source Sans Pro";
     font-size: 30px;
     font-weight: normal;
-    color: #
+    color: #454545;
+}
+.works span {
+    color: #acd373;
+}
+.works ul {
+    text-align: center;
+}
+.works em {
+    display: inline-block;
+    color: #818181;
+    font-style: italic;
+    font-family: "Droid Serif Italic";
+    font-size: 16px;
+}
+.works h6 {
+    display: block;
+    color: #454545;
+    font-family: "Source Sans Pro Bold";
+    font-style: bold;
+    font-size: 18px;
 }
