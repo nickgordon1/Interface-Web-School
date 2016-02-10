@@ -220,35 +220,147 @@ div.map {
     display: inline-block;
     width: 280px;
     height: 56;
+    text-align: left;
 }
 .service img {
     display: inline-block;
 }
-.team div {
+.team {
     text-align: center;
-    display: inline-block;
+    display: block;
     background-color: #acd373;
+    padding-bottom: 105px;  
 }
-.team li {
+/*.team li {
     display: inline-block;
-    background-color: #ebebeb;
-    width: 274px;
-    height: 50px;
+}
+.team ul {
+    display: inline-block;
+    background-color: #f7f7f7;
+    width: 275px;
+    height: 250px;
 }
 .team img {
-    display: inline-block;
+    display: block;
     border-radius: 50%;
-}
+    margin-top: -73px;
+}*/
 .team h3 {
     background-color: #acd373;
     font-family: "Source Sans Pro";
     font-weight: normal;
     color: #f7f7f7;
+    padding-top: 102px;
 }
 .team h4 {
     font-size: 18px;
     font-family: "DroidSerif";
     color: #f7f7f7;
     font-weight: normal;
+    padding-bottom: 20px;
+}
+.team li {
+    margin: 70px 13px 0 13px;
+    background: #f7f7f7;
+    text-align: center;
+    width: 270px;
+    height: 247px;
+    position: relative;
+    border-radius: 3px;
+    display: inline-block;
+    padding-top: 45px;
+}
+.team li > img {
+    margin-top: -70px;
+    border-radius: 50%;
+    border: 5px solid #acd373;
+}
+.team li h5 {
+    font-family: "Source Sans Pro";
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    color: #acd373;
+    margin-top: 15px;
+}
+.team li em {
+    font-family: "DroidSerif";
+    font-style: italic;
+    font-size: 16px;
+    color: #787878;
+    margin-top: 9px;
     display: block;
+}
+.team li div {
+    height: 70px;
+    background: #ebebeb;
+    line-height: 70px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.team li div img {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 0 4px;
+    opacity: 0.65;
+}
+.team li:first-of-type {
+    margin-left: 0;
+}
+.team li:last-of-type {
+    margin-right: 0;
+}
+.team ul {
+    text-align: center;
+}
+.job {
+    font-family: "Source Sans Pro";
+    font-weight: normal;
+    font-size: 18px;
+    color: #f7f7f7;
+    background-color: #9abd67;
+    display: block;
+    text-align: center;
+    padding: 35px;
+}
+.job a {
+    font-size: 18px;
+    font-family: "DroidSerif";
+    font-style: italic;
+    text-decoration: none;
+    color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-weight: normal;
+    line-height: 40px;
+    width; 141px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 7.5px;
+    padding-bottom: 5px;
+    padding-right: 7.5px;
+}
+.job h4 {
+    display: inline-block;
+    padding-right: 39px;
+}
+.works {
+    font-family: "Source Sans Pro";
+    font-weight: normal;
+    font-size: 18px;
+    color: #f7f7f7;
+    background-color: #f7f7f7;
+    display: block;
+    text-align: center;
+    padding: 35px;
+}
+.works h3 {
+    font-family: "Source Sans Pro";
+    font-size: 30px;
+    font-weight: normal;
+    color: #
 }
