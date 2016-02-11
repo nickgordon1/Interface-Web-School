@@ -497,6 +497,11 @@ div.map {
     font-style: normal;
     font-size: 30px;
     color: #454545;
+    margin-top: 113px;
+    margin-bottom: 20px;
+}
+.blog h4 {
+    margin-bottom: 20px;
 }
 .blog li {
     display: inline-block;
@@ -504,11 +509,10 @@ div.map {
     margin: 6px;
     width: 271px;
     height: 335px;
+    vertical-align: top;
+    margin-bottom: 100px;
 }
 .blog ul {
-    display: inline-block;
-}
-.blob div {
     display: inline-block;
 }
 .blog a {
@@ -518,5 +522,94 @@ div.map {
     font-size: 14px;
     text-decoration: none;
     background-color: #acd373;
-    ;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.blog div {
+    position: relative;
+}
+.blogsep {
+    margin-bottom: 60px;
+}
+.icon {
+    background-color: #acd373;
+    border-radius: 50%;
+    border: 5px solid #ebebeb;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    margin-top: -70px;
+}
+.icon img {
+    margin-top: 9px;
+}
+.news {
+    background-color: #acd373;
+    font-family: "Source Sans Pro Regular";
+    font-style: normal;
+    color: #f7f7f7; 
+    text-align: center;
+    display: block;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-size: 18px;
+}
+.news form {
+    display: inline-block;
+    margin-left: 45px;
+}
+.map img {
+    z-index: 1;
+    margin:auto;
+    padding-top: 192px;
+    display: block;
+}
+.news input {
+    background-color: #acd373;
+    border: 1px solid #f7f7f7;
+    height: 40px;
+    width: 180px;
+    font-family: "Droid Serif Italic";
+    font-style: italic;
+    text-align: center;
+    font-size; 14px;
+    color: #f7f7f7;
+}
+.contact h3 {
+    margin-top: 95px;
+    margin-bottom: 18px;
+    background-color: #acd373;
+}
+.contact {
+    display: block;
+    background-color: #acd373;
+}
+.contact div {
+    display: block;
+    text-align: center;
+}
+.contact img {
+    margin-bottom: 40px;
+}
+.contact label {
+    display: inline-block;
+    text-align: center;
+}
+.contact input {
+    background-color: #acd373;
+    display: block;
+}
+.footer {
+    height: 100px;
+    display: block;
+    background-color: #9abd67;
+}
+.footer ul {
+    display: block;
+}
+.footer li img {
+    display: block;
 }
