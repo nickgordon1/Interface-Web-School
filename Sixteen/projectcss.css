@@ -372,6 +372,8 @@ div.map {
 }
 .works li {
     display: inline-block;
+    background-color: #ebebeb;
+    margin: 6px;
 }
 .works em {
     display: inline-block;
@@ -386,9 +388,6 @@ div.map {
     font-family: "Source Sans Pro Bold";
     font-style: bold;
     font-size: 18px;
-}
-.works div {
-    background-color: #ebebeb;
 }
 .works h4 {
     color: #454545;
@@ -410,9 +409,15 @@ div.map {
     display: inline-block;
     padding-top: 5px;
     padding-left: 7.5px;
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     padding-right: 7.5px;
     margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+.workslink div {
+    text-align: center;
+    
 }
 .apps {
     display: block;
@@ -421,7 +426,97 @@ div.map {
 .apps li {
     display: inline-block;
     vertical-align: middle;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 .test {
     background-image: url("Images/testimonialbackground.png");
+    display: block;
+}
+.test img {
+    border-radius: 50%;
+}
+.test em {
+    color: #f7f7f7;
+    font-family: "Source Sans Pro Regular";
+    font-style: normal;
+    font-size: 18px;
+    display: inline-block;
+}
+.test h5 {
+    color: #f7f7f7;
+    font-family: "Source Sans Pro Regular";
+    font-style: normal;
+    font-size: 30px;
+    display: inline-block
+}
+.test div {
+    
+    display: inline-block;
+}
+.test a {
+    font-size: 18px;
+    font-family: "DroidSerif";
+    font-style: italic;
+    text-decoration: none;
+    color: #acd373;
+    border: 1px solid #acd373;
+    font-weight: normal;
+    line-height: 40px;
+    width; 141px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 7.5px;
+    padding-bottom: 3px;
+    padding-right: 7.5px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.test p {
+    font-family: "Droid Serif Regular";
+    color: #dedada;    
+}
+.test h6 {
+    font-family: "Source Sans Pro Bold";
+    color: #acd373;
+    font-style: bold;
+}
+.dots {
+    margin-top: -20px;
+    display: block;
+}
+.blog {
+    background-color: #f7f7f7;
+    display: block;
+    text-align: center;
+}
+.blog h3 {
+    font-family: "Source Sans Pro Regular";
+    font-style: normal;
+    font-size: 30px;
+    color: #454545;
+}
+.blog li {
+    display: inline-block;
+    background-color: #ebebeb;
+    margin: 6px;
+    width: 271px;
+    height: 335px;
+}
+.blog ul {
+    display: inline-block;
+}
+.blob div {
+    display: inline-block;
+}
+.blog a {
+    color: #f7f7f7;
+    font-family: "Droid Serif Italic";
+    font-style: italic;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #acd373;
+    ;
 }
