@@ -1,3 +1,48 @@
 background-size: cover  testimonial section video section
 use padding bottom so it carries background
 if you need an image to change sizes you have to target the image
+
+css3-cool fun stuff
+flexible box model
+the whole point is making it easier to lay things out and to be more responsive
+making things resive in your own way dynamicly
+to give the container the baility to change the width and height to best fill the available space
+can shrink them to prevent over flow
+direction agnostic- you change the order of anything which is nuts!
+it involves a whole set of properties
+parent element is called the Flex Container (display: flex)
+you to designate a whole section of your page to take flex properties
+you can completely change the flow on a container
+flex flow
+main and cross
+size start and axis
+
+div.flex-container {
+display: flex;
+flex-direction: row;
+}
+
+single direction layout base
+
+flexbox properties:
+
+refer to slack
+
+animations and transitions and suto elements
+
+Suto Elements:
+element that doesnt really exist
+two primary suto elements
+created in css
+
+1. Before
+2. After
+
+PACE
+progress bars
+
+transitions: all 0.5s linear;
+ease
+vendor prefixes to work
+
+animations

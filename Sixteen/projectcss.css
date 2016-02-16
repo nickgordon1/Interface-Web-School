@@ -394,7 +394,7 @@ div.map {
     padding-bottom: 15px;
     display: block;
 }
-.workslink a {
+a.greenlink {
     font-size: 18px;
     font-family: "DroidSerif";
     font-style: italic;
@@ -413,7 +413,6 @@ div.map {
     padding-right: 7.5px;
     margin-top: 80px;
     margin-bottom: 80px;
-    background-color: #f7f7f7;
 }
 .workslink {
     background-color: #f7f7f7;
@@ -483,8 +482,8 @@ div.map {
     color: #acd373;
     font-style: bold;
 }*/
-.test{
-    padding-top: 120px;
+.test {
+    padding-top: 15px;
     padding-bottom: 109px;
     color: #f7f7f7;
     font-family: "Source Sans Pro"; 
@@ -495,6 +494,8 @@ div.map {
 }
 .test p {
     font-size: 18px;
+    margin-top: 37px;
+    line-height: 1.25em;
 }
 .test li {
     display: inline-block;
@@ -502,7 +503,13 @@ div.map {
     vertical-align: top;
 }
 .test blockquote {
-    background: ("Images/blockquotes.png") no-repeat top center;
+    background: url("Images/blockquotes.png") no-repeat top center;
+    padding-top: 26px;
+    padding-left: 13px;
+    padding-right: 21px;
+    height: 118px;
+    line-height: 1.25em;
+    margin-bottom: 17px;
 }
 .test .container > * {
     display: inline-block;
@@ -510,6 +517,36 @@ div.map {
 }
 .test .container > div {
         width: 298px;
+}
+.test li img {
+    border-radius: 50%;
+    display: inline-block;
+}
+.test li div {
+    display: inline-block;
+    margin-left: 28px;
+    vertical-align: top;
+}
+.test h6 {
+    font-family: "Source Sans Pro";
+    font-weight: bold;
+    font-size: 18px;
+    color: #acd373;
+    padding-top: 27px;
+    padding-bottom: 17px;
+}
+.test li a{
+    font-family: "Droid Serif";
+    font-style: italic;
+    font-size: 18px;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+.test ul {
+    margin-left: 90px;
+}
+.test li:first-of-type {
+    margin-right: 31px;
 }
 .dots {
     margin-top: -20px;
