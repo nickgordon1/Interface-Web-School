@@ -1,0 +1,3 @@
+background-size: cover  testimonial section video section
+use padding bottom so it carries background
+if you need an image to change sizes you have to target the image

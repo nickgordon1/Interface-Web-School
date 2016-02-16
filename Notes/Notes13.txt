@@ -1,0 +1,45 @@
+Responsive-
+that your website responds to the device its being viewed by.
+
+layman use the term incorrectly
+
+RWD responsive web design
+mobile first responsive web design
+Ethan Mark
+articulates how to adapt a websites layout multiple websites
+
+1.fluid grid
+2.flexable images and media
+3.media queries
+
+a new list of best practices
+
+Mobile first-
+philosiphy about designing for the phone first
+interactive landscape is getting more complicated
+feature detection
+modenizr
+conditional script loading
+just for IE
+
+1.allows the website to reach more people
+2.forces designers to focus on core content and funtionality
+3.lets designers innovate and take advantage of new technologies
+
+Progressive Enhancments-
+designing with base layer with exactly what you need
+anything on top of taht is a progressive enhancment
+
+Media Queries-
+dividiers for your css and only run them on certain conditions taht are decided by the browser not your site
+
+Type- what type
+Aspect ratio- portrait or landscape 
+Dimension-resolution
+Orientation-is the device sidways or not
+
+@media all and (max-width: 200px) {
+
+}
+
+

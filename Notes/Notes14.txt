@@ -1,0 +1,126 @@
+Tools-
+
+be careful about what tool you adopt
+
+1. Preprocessing tools
+(Codekit Mac only 30.00)
+(Grunt command line(terminal) tools)Taskrunner
+(Gulp command line (terminal) tools)Taskrunner
+
+2. Pulling details out of design
+(Avocode import design files and give you a better css tool)
+(Extract for Brackets)Brackets extension
+
+3.Viewing or editing designs
+(Photoshop)
+(Sketch 30.00)
+
+4. Prototyping
+(Invision not free)
+(Atomic.io)
+
+5. Debugging
+Chrome dev tools (Inspector)
+The Web Developer Toolbar
+
+6. Performance testing
+Google PageSpeed Insights
+
+7. Design Accuracy Testing
+Perfect Pixel
+
+8. Code Editing
+Brackets
+Atom(free)
+Sublime Text
+
+9. Website Monitoring
+Pingdom $$
+
+10. Website Testing
+BrowserStack $$
+Sauce Labs $$
+
+11. Internet Explorer Testing
+Modern.ie
+Download VitrualBox
+
+12. Version Control
+Git
+SVN
+
+13. Hosts
+GitBucket (private for frees)
+GitHub (private repos cost money)
+
+Boilerplates, Libraries, Frameworks-
+
+Boilerplate-
+Pre-written code
+Templates
+Static
+
+Eg; HTML5 Boilerplate
+
+Libraries-
+Prewritten code
+Use as much or as little as you want
+requires updates
+can use multiple programming kanguages
+can contain other libararies or frameworks
+
+Eg; jQuery, Bootstrap
+
+Frameworks-
+Prewritten code
+changes how you write code
+Changes your foolder structure
+Alot of upkeep and upgrades
+Generally has to be used in the entire project
+it can contain all of the three
+
+Eg; AngularJS,Knockout
+
+The Essentials-
+
+Lifetime 
+Documentation
+Community
+Development team
+Learning curve
+Compatability
+
+Questions to live and die by-
+
+How big and active is the community
+What are competitors
+Learning Curve
+
+AlternativeTo.net
+
+Bootstrap-
+
+Really good documentation
+
+The Grid:
+Responsive mobile first grid system
+Predifnined class for easy layout options
+Rows and columns
+Rows must be in a container
+Container class ( changes sizes)
+Container-fluid
+Horizontal groups of columns
+Content should be in columns
+Columns create gutters with padding (can be offset with rows)
+3 equal columns would be 4
+when you apply to smaller sizes it will happen to all the sizes above
+
+Structure element
+
+Container 
+Row
+Components (cool pieces of stuff)
+
+
+
+

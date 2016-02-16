@@ -413,11 +413,11 @@ div.map {
     padding-right: 7.5px;
     margin-top: 80px;
     margin-bottom: 80px;
-    
+    background-color: #f7f7f7;
 }
-.workslink div {
+.workslink {
+    background-color: #f7f7f7;
     text-align: center;
-    
 }
 .apps {
     display: block;
@@ -429,7 +429,7 @@ div.map {
     margin-top: 40px;
     margin-bottom: 40px;
 }
-.test {
+/*test {
     background-image: url("Images/testimonialbackground.png");
     display: block;
 }
@@ -482,6 +482,34 @@ div.map {
     font-family: "Source Sans Pro Bold";
     color: #acd373;
     font-style: bold;
+}*/
+.test{
+    padding-top: 120px;
+    padding-bottom: 109px;
+    color: #f7f7f7;
+    font-family: "Source Sans Pro"; 
+    background: url("Images/testimonialbackground.png") no-repeat center center;
+}
+.test h5 {
+    font-size: 30px; 
+}
+.test p {
+    font-size: 18px;
+}
+.test li {
+    display: inline-block;
+    width: 370px;
+    vertical-align: top;
+}
+.test blockquote {
+    background: ("Images/blockquotes.png") no-repeat top center;
+}
+.test .container > * {
+    display: inline-block;
+    vertical-align: top;
+}
+.test .container > div {
+        width: 298px;
 }
 .dots {
     margin-top: -20px;
@@ -602,14 +630,20 @@ div.map {
     background-color: #acd373;
     display: block;
 }
+footer {
+    font-color: #f7f7f7;
+}
 .footer {
     height: 100px;
     display: block;
     background-color: #9abd67;
+    font-family: "Source Sans Pro Regular";
+    font-style: normal;
+    font-size: 18px;
 }
 .footer ul {
-    display: block;
+    display: inline-block;
 }
-.footer li img {
-    display: block;
+.footer li {
+    display: inline-block;
 }
