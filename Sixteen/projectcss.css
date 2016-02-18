@@ -412,7 +412,6 @@ a.greenlink {
     padding-bottom: 3px;
     padding-right: 7.5px;
     margin-top: 80px;
-    margin-bottom: 80px;
 }
 .workslink {
     background-color: #f7f7f7;
@@ -483,8 +482,8 @@ a.greenlink {
     font-style: bold;
 }*/
 .test {
-    padding-top: 15px;
-    padding-bottom: 109px;
+    padding-top: 120px;
+    padding-bottom: 84px;
     color: #f7f7f7;
     font-family: "Source Sans Pro"; 
     background: url("Images/testimonialbackground.png") no-repeat center center;
@@ -667,8 +666,7 @@ a.greenlink {
     font-size; 14px;
     color: #f7f7f7;
 }
-
-.news input {
+.news input[type="text"] {
     background-color: #acd373;
     border: 1px solid #f7f7f7;
     height: 40px;
@@ -676,14 +674,15 @@ a.greenlink {
     text-align: center;
 }
 .email {
-    background: url(Images/emailbutton.png) no-repeat;
+    background: #fff url(Images/emailbutton.png) no-repeat center center;
     cursor: pointer;
     border: none;
-    width: 100px;
-    height: 100px;
+    width: 49px;
+    height: 44px;
     display: inline-block;
     margin-left: -4px;
     background-repeat: no-repeat;
+    vertical-align: middle;
 }
 .contact h3 {
     margin-top: 95px;
@@ -710,58 +709,79 @@ a.greenlink {
     color: #f7f7f7;
     font-size: 18px;
     line-height: 35px;
-    text-align: center;
+    width: 569px;
+    margin : 0 auto;
 }
-.contact input::-webkit-input-placeholder {
+.contact input::-webkit-input-placeholder,
+.contact textarea::-webkit-input-placeholder{
     font-family: "Droid Serif";
     font-style: italic;
-    text-align: center;
     font-size; 15px;
     color: #f7f7f7;
     text-align: left
 }
-.contact input::-moz-placeholder { 
+.contact input::-moz-placeholder,
+.contact textarea::-moz-placeholder{ 
     font-family: "Droid Serif";
     font-style: italic;
     text-align: center;
     font-size; 15px;
     color: #f7f7f7;
 }
-.contact input:-ms-input-placeholder { 
+.contact input:-ms-input-placeholder,
+.contact textarea:-ms-input-placeholder{ 
     font-family: "Droid Serif";
     font-style: italic;
     text-align: center;
     font-size; 15px;
     color: #f7f7f7;
 }
-.contact input:-moz-placeholder { 
+.contact input:-moz-placeholder,
+.contact textarea:-moz-placeholder{ 
     font-family: "Droid Serif";
     font-style: italic;
     text-align: center;
     font-size; 15px;
     color: #f7f7f7;
 }
-.contact input {
+.contact input,
+.contact textarea{
     background-color: #9abd67;
     display: block;
-    text-align: center;
+    text-align: left;
     border-style: none;
     margin : 0 auto;
 }
 .field1 {
     height: 40px;
-    width: 569px;
+    width: 100%;
 }
 .field2 {
     height: 40px;
-    width: 569px;
+    width: 100%;
 }
 .field3 {
     height: 157px;
-    width: 569px;
+    width: 100%;
+}
+.send {
+    width: 110px;
+    height: 40px;
+    font-family: "Droif Serif";
+    font-style: italic;
+    font-size: 18px;
+    color: #f7f7f7;
+    background-color: #9abd67;
+    border-style: none;
+    margin-top: 50px;
+    margin-left: 470px;
+    margin-bottom: 79px;
 }
 footer {
     color: #f7f7f7;
+}
+footer div{
+    padding-top: 43px;
 }
 .footer {
     height: 100px;
@@ -773,7 +793,7 @@ footer {
 }
 .footer ul {
     display: inline-block;
-    padding-left: 542px;
+    padding-left: 846px;
 }
 .footer li {
     display: inline-block;
