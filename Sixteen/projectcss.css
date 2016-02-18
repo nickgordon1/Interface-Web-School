@@ -558,7 +558,7 @@ a.greenlink {
     text-align: center;
 }
 .blog h3 {
-    font-family: "Source Sans Pro Regular";
+    font-family: "Source Sans Pro";
     font-style: normal;
     font-size: 30px;
     color: #454545;
@@ -572,17 +572,18 @@ a.greenlink {
     display: inline-block;
     background-color: #ebebeb;
     margin: 6px;
-    width: 271px;
-    height: 335px;
+    width: 274px;
+    height: 336px;
     vertical-align: top;
     margin-bottom: 100px;
+    position: relative;
 }
 .blog ul {
     display: inline-block;
 }
 .blog a {
     color: #f7f7f7;
-    font-family: "Droid Serif Italic";
+    font-family: "Droid Serif";
     font-style: italic;
     font-size: 14px;
     text-decoration: none;
@@ -591,9 +592,14 @@ a.greenlink {
     position: absolute;
     bottom: 0;
     width: 100%;
+    height: 50px;
+    line-height: 50px;
 }
 .blog div {
     position: relative;
+}
+.blog h6 {
+    margin-top: 23px;
 }
 .blogsep {
     margin-bottom: 60px;
@@ -613,7 +619,7 @@ a.greenlink {
 }
 .news {
     background-color: #acd373;
-    font-family: "Source Sans Pro Regular";
+    font-family: "Source Sans Pro";
     font-style: normal;
     color: #f7f7f7; 
     text-align: center;
@@ -632,21 +638,58 @@ a.greenlink {
     padding-top: 192px;
     display: block;
 }
-.news input {
-    background-color: #acd373;
-    border: 1px solid #f7f7f7;
-    height: 40px;
-    width: 180px;
-    font-family: "Droid Serif Italic";
+.news input::-webkit-input-placeholder {
+    font-family: "Droid Serif";
     font-style: italic;
     text-align: center;
     font-size; 14px;
     color: #f7f7f7;
 }
+}
+.news input::-moz-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 14px;
+    color: #f7f7f7;
+}
+.news input:-ms-input-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 14px;
+    color: #f7f7f7;
+}
+.news input:-moz-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 14px;
+    color: #f7f7f7;
+}
+
+.news input {
+    background-color: #acd373;
+    border: 1px solid #f7f7f7;
+    height: 40px;
+    width: 180px;
+    text-align: center;
+}
+.email {
+    background: url(Images/emailbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: -4px;
+    background-repeat: no-repeat;
+}
 .contact h3 {
     margin-top: 95px;
     margin-bottom: 18px;
     background-color: #acd373;
+    color: #f7f7f7;
 }
 .contact {
     display: block;
@@ -660,15 +703,65 @@ a.greenlink {
     margin-bottom: 40px;
 }
 .contact label {
-    display: inline-block;
+    display: block;
+    text-align: left;
+    font-family: "Source Sans Pro";
+    font-weight: normal;
+    color: #f7f7f7;
+    font-size: 18px;
+    line-height: 35px;
     text-align: center;
 }
+.contact input::-webkit-input-placeholder {
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 15px;
+    color: #f7f7f7;
+    text-align: left
+}
+.contact input::-moz-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 15px;
+    color: #f7f7f7;
+}
+.contact input:-ms-input-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 15px;
+    color: #f7f7f7;
+}
+.contact input:-moz-placeholder { 
+    font-family: "Droid Serif";
+    font-style: italic;
+    text-align: center;
+    font-size; 15px;
+    color: #f7f7f7;
+}
 .contact input {
-    background-color: #acd373;
+    background-color: #9abd67;
     display: block;
+    text-align: center;
+    border-style: none;
+    margin : 0 auto;
+}
+.field1 {
+    height: 40px;
+    width: 569px;
+}
+.field2 {
+    height: 40px;
+    width: 569px;
+}
+.field3 {
+    height: 157px;
+    width: 569px;
 }
 footer {
-    font-color: #f7f7f7;
+    color: #f7f7f7;
 }
 .footer {
     height: 100px;
@@ -680,6 +773,7 @@ footer {
 }
 .footer ul {
     display: inline-block;
+    padding-left: 542px;
 }
 .footer li {
     display: inline-block;
