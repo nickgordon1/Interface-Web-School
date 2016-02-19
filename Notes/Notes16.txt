@@ -1,0 +1,54 @@
+what is a computer
+anything electronic that you can program to math or logic (any information in any way)
+-calculator
+-coffer machine
+-lightswitch
+-thermostat
+
+What ia programming?
+client side versus server side
+client side is vistor side
+server side is owner side
+front end is all client side
+server holds css html and javascript
+it lets the user have their browser download from the server the site
+everything we are doing is client side
+front end you can see with visuals
+server side you just have code not images or text
+server side youd write your own messages for when something goes wrong
+then they make logs that dump all your broken code so you can see it remotely
+generate all your own feedback
+IED 
+scripts vs programs
+
+javascript is scripting language
+
+programs are standole
+perform tasks independent of other programs
+
+scripts automate the use of programs
+tell the computer to use pieces of a program on its own without you telling it what to do
+
+compile code vs interperated code
+
+interperated code is text file that gets translated into machine language by an interpretor (far removed from the actual computer that does things)
+the further you are from the metal the more user frienly the code is opposite effect the closer to the metal you are
+translating takes power and ram
+
+interpertaed code is what javascript is javascript interperator
+the browser has a built in interperator
+heavy human to heavy machine
+
+compiled code turns your code directly into machine language
+one step removed from interperated
+compiled code doesnt work live
+it has to be compiled and then used
+fairly human readable
+it does more then just a simple tarnslation it does a bunch of translations
+you have to compile it before using to see if it worked
+
+server side is majority compiled
+modern server side code is interperated
+
+programming languages do the same things
+

@@ -1,0 +1,152 @@
+object oriented programming
+javascript is not object orientated
+it doesnt contain the pieces needed to do so
+it was written as a scripting language
+javascript is based on a ruleset called ECMA script
+new script coming out soon ECMA6
+ECMA6 is object oriented
+it is on the verge to become a true programming language
+Javascript can change HTML
+It can also change your CSS
+Javascipt normally runs after the page is loaded
+It needs to alter your HTML and CSS first
+You have to tell it when to run...It can load at the wrong time (BAD)
+Javascipt can talk to other languages
+Javascript does all the heavylifting
+Javascript takes a copy of your HTML and converts it into Javasciot variables so it can use it it's way
+It can also talk to other servers
+most code is on the same server
+API - public access layer of an application (Facebook having foreign things in it from another source using the API)
+Javascript is MESSY
+There isnt a clear and obvious way to do most things
+No good documentation for Javascript
+Be willing to do different methods
+This has nothing to do with Java
+Java is a backend programming language
+
+Basic Usage-
+The script tag (type,src)
+the script tag has a closing tag
+no href its src
+script src=".."
+script tags are a combination of link and style
+script has open and close
+other attribute type
+put in HTML 
+similar to link
+heading or body
+loading bar would be an example of a good place to put a scipt in the head
+where you put your script tags 
+mysequal
+php
+mamp-translator
+also lamp
+Javascript can be ran in the backend
+NodeJS server side javascript (interperator)
+Node is a back end language
+object oriented- variables,arrays,objects(can carry all the above),classes(an object template so it can be used over and over but can change the values), inheritance
+its much better to keep it away from your HTML
+use an external javascript file
+Bottom of the page is where the javascript should good
+after libraries
+timing with javascript is evreything
+
+
+
+<script type="text/javascript">
+
+// A comment
+
+alert ();
+
+</script>
+
+<script src="js/myFile.js"></script>
+
+
+
+JavaScript Syntax (Grammar)
+
+Flow-
+
+var x = 5;
+
+Keywords
+Operators
+Values and Expressions
+Statemets and Programs
+
+= is and operator (asigns whats on the right to the left)
+
+expression or value (5)
+
+var is a variable
+
+everthing together is a statement or command (;)
+
+statements make up programs
+
+1. Keywords
+a keyword states an action
+eg. Variable: var x
+eg. Function: function y
+
+Examples:
+
+var x
+var x = 5 ( var makes things exist others wise the computer doesn't what x is without it)
+
+Undefined is a keyword
+
+2. Operators
+assignment operators = assigns values to variables
+arithmetic operators + or -
+eg. x = 5
+    x * 5
+    
+    
+expressions are intrchangable with values
+
+3. Values
+
+fixed values:
+5 or "Joe"
+text is always viewed as a "string"
+"" is a string
+Literals
+
+variable value:
+ var x = 5
+ 
+ eg. 5
+    5 + 5
+    
+4. Statements
+a single instruction or command separated by semicolons
+
+eg.
+var x x = 5 (no)
+var x; x=5; (yes)
+
+5. Programs
+are just multiple statements
+
+eg.
+var x; x=5;
+
+Flow review
+
+var x=5;
+1.keyword (variable)
+2.Operator(Assignment)
+3.Expression or value
+4.statment
+5.program
+
+console.log("");
+
+Document Object Model (DOM)
+virtual copy of your html that is stored in a way javascript knows how to read
+
+
+

@@ -150,6 +150,8 @@ h3 {
     width; 141px;
     height: 40px;
     text-align: center;
+    display: inline-block;
+    margin-top: 46px;
 }
 .service {
     font-family: "Source Sans Pro";
@@ -158,7 +160,6 @@ h3 {
     color: #454545;
     background-color: #f7f7f7;
     display: block;
-    padding: 90px 0;
     text-align: center;
 }
 div.video {
@@ -188,6 +189,9 @@ div.map {
 .service h3 span {
     font-size: 30px;
     font-weight: normal;
+}
+.service h3 {
+    padding-top: 99px;
 }
 .service h4 {
     font-family: "Droid Serif";
@@ -224,6 +228,10 @@ div.map {
 }
 .service img {
     display: inline-block;
+}
+.service div img {
+    padding-bottom: 89px;
+    padding-top: 25px;
 }
 .team {
     text-align: center;
@@ -356,13 +364,14 @@ div.map {
     background-color: #f7f7f7;
     display: block;
     text-align: center;
-    padding: 100px;
+    
 }
 .works h3 {
     font-family: "Source Sans Pro";
     font-size: 30px;
     font-weight: normal;
     color: #454545;
+    padding-top: 100px;
 }
 .works span {
     color: #acd373;
@@ -374,6 +383,7 @@ div.map {
     display: inline-block;
     background-color: #ebebeb;
     margin: 6px;
+    vertical-align: top;
 }
 .works em {
     display: inline-block;
@@ -388,6 +398,7 @@ div.map {
     font-family: "Source Sans Pro Bold";
     font-style: bold;
     font-size: 18px;
+    padding-top: 25px;
 }
 .works h4 {
     color: #454545;
@@ -411,11 +422,18 @@ a.greenlink {
     padding-left: 7.5px;
     padding-bottom: 3px;
     padding-right: 7.5px;
-    margin-top: 80px;
+    margin-top: 81px;
+    margin-bottom: 81px;
 }
 .workslink {
     background-color: #f7f7f7;
     text-align: center;
+}
+.works div > img {
+    padding-bottom: 69px;
+}
+.workpix div {
+    height: 100px;
 }
 .apps {
     display: block;
@@ -483,7 +501,7 @@ a.greenlink {
 }*/
 .test {
     padding-top: 120px;
-    padding-bottom: 84px;
+    padding-bottom: 2px;
     color: #f7f7f7;
     font-family: "Source Sans Pro"; 
     background: url("Images/testimonialbackground.png") no-repeat center center;
@@ -546,6 +564,25 @@ a.greenlink {
 }
 .test li:first-of-type {
     margin-right: 31px;
+}
+.test a.greenlink {
+    font-size: 18px;
+    font-family: "DroidSerif";
+    font-style: italic;
+    text-decoration: none;
+    color: #acd373;
+    border: 1px solid #acd373;
+    font-weight: normal;
+    line-height: 40px;
+    width; 141px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 7.5px;
+    padding-bottom: 3px;
+    padding-right: 7.5px;
+    margin-top: 81px;
 }
 .dots {
     margin-top: -20px;
@@ -781,7 +818,10 @@ footer {
     color: #f7f7f7;
 }
 footer div{
-    padding-top: 43px;
+    float: left;
+    display: inline-block;
+    padding-right: 547px;
+    padding-top: 42px;
 }
 .footer {
     height: 100px;
@@ -793,8 +833,8 @@ footer div{
 }
 .footer ul {
     display: inline-block;
-    padding-left: 846px;
 }
 .footer li {
     display: inline-block;
+    padding-top: 34px;
 }
