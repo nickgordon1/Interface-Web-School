@@ -82,7 +82,7 @@ header {
     text-align: center;
     height: 700px;
     background-color: #9abd67;
-    background-image: url("img/skyline.png");
+    background-image: url("Images/Skyline.png");
     background-repeat: no-repeat;
     background-position: bottom center;
 }
@@ -152,6 +152,10 @@ h3 {
     text-align: center;
     display: inline-block;
     margin-top: 46px;
+    padding-top: 5px;
+    padding-left: 7.5px;
+    padding-bottom: 3px;
+    padding-right: 7.5px;
 }
 .service {
     font-family: "Source Sans Pro";
@@ -181,7 +185,7 @@ div.map {
     padding-top: 192px;
     display: block;
 }
-.service span {
+/*.service span {
     color: #acd373;
     font-weight: bold;
     font-size: 20px;
@@ -192,10 +196,6 @@ div.map {
 }
 .service h3 {
     padding-top: 99px;
-}
-.service h4 {
-    font-family: "Droid Serif";
-    font-size: 18px;
 }
 .service a {
     font-size: 18px;
@@ -225,13 +225,89 @@ div.map {
     width: 280px;
     height: 56;
     text-align: left;
+    padding-top: 20px;
+    vertical-align: top;
+}*/
+.service {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.service h3 {
+  text-align: center;
+  font-size: 30px;
+  color: #454545;
+  font-family: "Source Sans Pro";
+}
+.service h3 span {
+  color: #acd373;
 }
 .service img {
-    display: inline-block;
+    padding-top: 24px;
 }
-.service div img {
-    padding-bottom: 89px;
-    padding-top: 25px;
+.service .container > p {
+  font-size: 18px;
+  color: #454545;
+  text-align: center;
+  margin-top: 20px;
+}
+.service .icon {
+  width: 75px;
+  height: 78px;
+  margin-right: 15px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+.service li {
+  margin-top: 84px;
+  text-align: left;
+}
+.service li,
+.service li div {
+  display: inline-block;
+  vertical-align: top;
+}
+.service li div + div {
+  width: 280px;
+}
+.service li h4 {
+  font-size: 20px;
+  font-family: "Source Sans Pro";
+  font-weight: bold;
+  color: #acd373;
+  text-transform: uppercase;
+}
+.service li p {
+  font-size: 18px;
+  color: #444444;
+  font-family: "Source Sans Pro";
+  margin-top: 18px;
+  line-height: 1.25em;
+}
+.service .emblem {
+  width: 75px;
+  height: 78px;
+  margin-right: 15px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+.service li:nth-of-type(1) .emblem {
+  background-image: url('Images/paintbrushicon.png');
+}
+.service li:nth-of-type(2) .emblem {
+  background-image: url('Images/phonicon.png');
+}
+.service li:nth-of-type(3) .emblem {
+  background-image: url('Images/monitoricon.png');
+}
+.service li:nth-of-type(4) .emblem {
+  background-image: url('Images/marketingicon.png');
+}
+.service li:nth-of-type(5) .emblem {
+  background-image: url('Images/gameicon.png');
+}
+.service li:nth-of-type(6) .emblem {
+  background-image: url('Images/hearticon.png')s;
 }
 .team {
     text-align: center;
@@ -507,12 +583,17 @@ a.greenlink {
     background: url("Images/testimonialbackground.png") no-repeat center center;
 }
 .test h5 {
-    font-size: 30px; 
+    font-size: 30px;
+    font-family: "Source Sans Pro";
+    font-weight: 300;
+    color: #f7f7f7;
 }
 .test p {
     font-size: 18px;
     margin-top: 37px;
     line-height: 1.25em;
+    color: #f7f7f7;
+    font-weight: 300;
 }
 .test li {
     display: inline-block;
@@ -527,6 +608,10 @@ a.greenlink {
     height: 118px;
     line-height: 1.25em;
     margin-bottom: 17px;
+    font-family: "Droid Serif";
+    color: #f7f7f7;
+    font-weight: 200;
+        
 }
 .test .container > * {
     display: inline-block;
@@ -558,6 +643,7 @@ a.greenlink {
     font-size: 18px;
     color: #f7f7f7;
     text-decoration: none;
+    font-weight: 200;
 }
 .test ul {
     margin-left: 90px;
@@ -600,9 +686,14 @@ a.greenlink {
     color: #454545;
     margin-top: 113px;
     margin-bottom: 20px;
+    font-weight: 400;
 }
 .blog h4 {
     margin-bottom: 20px;
+    font-weight: 200;
+    font-family: "Droid Serif";
+    font-style: normal;
+    color: #454545;
 }
 .blog li {
     display: inline-block;
@@ -636,6 +727,10 @@ a.greenlink {
 }
 .blog h6 {
     margin-top: 23px;
+    font-family: "Source Sans Pro";
+    font-style: normal;
+    font-weight: 600;
+    color: #555555
 }
 .blogsep {
     margin-bottom: 60px;

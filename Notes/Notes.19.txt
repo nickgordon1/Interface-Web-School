@@ -1,0 +1,58 @@
+Scope
+set of variables that you have access to in JavaScript
+funtionScope
+variables are assigned a scope
+when you use var thats where you declared it
+
+Local scope
+varibales are one part of your code
+all the variables are disposed of after action
+
+Global Scope
+arent inside any functions
+and can be used anywhere
+but shouldnt be used often
+may conflict with other things
+
+Automatic Global Scope
+
+
+want to be intentional with scope
+
+Functions
+use the same code multiple times
+math and programming arent related at all
+keep your code clean and readable
+helps with javascript flow
+DO complex things with multiple funtions
+break it down ionto its simplest components
+
+Object, Array, Variable
+
+OOP 
+object oriented programming
+variables
+store info.
+funtions
+store and run blocks of code
+objects
+contain all the other
+class
+which is a object template
+(premade object)
+Instance
+instance of a class
+a copy of the class template
+
+class can store two things
+properties (variables)
+methods (funtion inside of an object)
+
+CLASS
+property
+method
+
+CAR
+information
+actions
+
