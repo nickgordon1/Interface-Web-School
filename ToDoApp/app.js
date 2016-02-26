@@ -23,6 +23,6 @@ form.onsubmit = function() {
   input.value = '';
   return false;
 };
-
+localStorage.setItem("item");
 
 renderAll();
