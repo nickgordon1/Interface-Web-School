@@ -307,7 +307,7 @@ div.map {
   background-image: url('Images/gameicon.png');
 }
 .service li:nth-of-type(6) .emblem {
-  background-image: url('Images/hearticon.png')s;
+  background-image: url('Images/hearticon.png');
 }
 .team {
     text-align: center;

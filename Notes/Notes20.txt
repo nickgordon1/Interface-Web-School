@@ -1,0 +1,74 @@
+HTML5 LocalStorage
+Javascript ogject
+one variable taht is told not to delete (anything inside the variable)
+localStorage (<-- thats the variable)
+
+eg. http://jsbin.com/kareqavana/edit?js,console,output
+
+Prototype
+JavaScript is prototypical
+Templates of objects that you use over and over
+everything in JavaScript is desendant of something else
+
+JavaScript loses stored info on refresh of site or closed site.
+Cookies have poor security.
+Tokens for loging in
+it creates tokens to stay logged in
+it creates something ot cross reference to autenticate
+anyone can edit or delete or create a cookie
+Token generators exist
+cookies are storage for javascript
+similar to css in cascading
+
+Operators, Comparisons, I/O (input/output)
+console.log is output
+alert is output
+
+assignment operators
+Assign
+Add
+Subtract
+Multiply
+Divide
+Remainder(modulus)
+
+Regular Expression
+a find and replace tool
+a weird way of writing what ou wnat your search to match
+RegEx
+not a common skill
+complex forum fields
+searching
+
+Comparisons
+Equal to 
+Equal to and same type
+Greater than
+Less than
+Greater than or equal to
+Less than or equal to
+And / Or
+== comparison operator    equal to
+=== is it the same data type     equal to and same type
+chain if statements with else if
+else is like a back up
+ && and
+ || or
+ ! not
+ 
+ I/O
+ Alert
+ Prompt
+ Log
+ Warn console.warn
+ innerHTML 
+ innerText
+ Value made for forum elements  just for inputs
+ Write built in to document object kinda dangerous
+ 
+For and For/In Loop
+
+TO DO APP!
+
+March 3rd
+
