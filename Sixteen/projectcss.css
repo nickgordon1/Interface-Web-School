@@ -130,7 +130,7 @@ h3 {
     padding-top: 15px;
     margin: left;
 }
-.who img {
+.who h3 img {
     padding-right: 25px;
     display: inline-block;
 }
@@ -170,15 +170,17 @@ div.video {
     background-image: url("Images/videobackground.png");
     background-position: center center;
     height: 522px;
+    background-size: cover;
 }
 div.map {
     background-image: url("Images/map.png");
     background-position: center center;
     height: 522px;
 }
-.iphone {
+#iphone {
     display: inline-block;
-    padding-left: 142px;
+    padding-left: 134px;
+    float: right;
 }
 .video img {
     margin:auto;

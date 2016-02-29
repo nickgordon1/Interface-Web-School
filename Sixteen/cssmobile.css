@@ -1,5 +1,7 @@
 @media all and (max-width:360px) {
-    
+    .container {
+        width: auto;
+    }
     nav img {
         width: 70px;
     }
@@ -43,9 +45,10 @@
     .who img {
         padding: none;
     }
-    .iphone {
+    #iphone {
         display: flex;
         padding-left: none;
+        float: none;
     }
     div.video {
         height: 262px;
@@ -56,4 +59,32 @@
     .section1 {
         display: none;
     }
-    
+    .section2 li {
+        display: block;
+    }
+    .emblem {
+        display: inline;
+        margin-right: 0px;
+    }
+    .service li div + div {
+        width: 242px;
+    }
+    .test {
+        background-size: cover;
+    }
+    .blog1  {
+        display: block; 
+    }
+    .blog2 {
+        display: block;
+    }
+    .blog1 li {
+        width: 150px;
+    }
+     .blog2 li {
+        width: 150px;
+    }
+    .blog1 li > img, .blog2 li > img {
+        width: 150px;
+    }
+

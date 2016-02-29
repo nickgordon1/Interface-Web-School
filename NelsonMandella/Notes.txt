@@ -1,0 +1,11 @@
+Bootstrap for site
+hamburger menu
+phone based
+
+
+consolidate nav bar
+meet our staff 
+put in catergories
+
+they are currently orhganized alphabetically
+Modal
