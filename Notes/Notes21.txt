@@ -1,0 +1,42 @@
+masonry.com
+
+jQuery
+
+refer to ejohn.org
+opensource javascript library
+created by John Resig in 2005
+attempt to simply DOM API's 
+jQuery version 2 
+was made at the same time of ver. 1
+ver.1 still has all teh compabability.
+jQuery2 has the same features as 1 but is only compabatable up to IE 8 or newer
+google anything with jQuery in it and you can find something
+TONS! of plugins. good and bad
+jQuery 2 is smaller.
+a dom node is an objec inside the dom
+text nodes element nodes, ext.
+javascript right after the body
+alwasy wrap all your javascript code in an onload event
+$(document).ready(function)(){
+// Your jQuery code goes here
+});
+
+should only need one.
+Angular
+
+
+CNA building
+aureus group
+aureus medical
+usergroups
+proveit
+plural site
+linkdin
+
+two pressures
+recruiters will go for contract
+and employers will go for permanent placement
+2 year value mark is huge
+
+techsystems
+modis

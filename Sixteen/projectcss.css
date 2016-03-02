@@ -179,8 +179,10 @@ div.map {
 }
 #iphone {
     display: inline-block;
-    padding-left: 134px;
+    padding-left: 106px;
     float: right;
+    padding-bottom: 36px;
+    padding-top: 43px;
 }
 .video img {
     margin:auto;

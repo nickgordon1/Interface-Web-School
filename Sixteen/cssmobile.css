@@ -36,8 +36,8 @@
         display: none;
     }
     .who p {
-        text-align: center;
-        width: 299px;
+        text-align: left;
+        width: 366px;
     }
     .who p:nth-of-type(2) {
         display: none;
@@ -45,9 +45,11 @@
     .who img {
         padding: none;
     }
+    .who a {
+        margin-bottom: 47px;
+    }
     #iphone {
-        display: flex;
-        padding-left: none;
+        display: inline-block;
         float: none;
     }
     div.video {
@@ -69,8 +71,57 @@
     .service li div + div {
         width: 242px;
     }
+    .service li p {
+        width: 274px;
+    }
+    .service {
+        padding-bottom: 47px;
+    }
+    .team span {
+        display: none;
+    }
+    .section2 li {
+        margin-top: 39px;
+    }
+    .job h4 {
+        font-size: 13px;
+        margin-right: 94px;
+    }
+    .job a {
+        float: right;
+        font-size: 13px;
+        display: block;
+        position: relative;
+        bottom: 33px;
+    }
+    .works li:nth-of-type(1) {
+        display:none;
+    }
+    .works li:nth-of-type(2) {
+        display:none;
+    }
+    .works li:nth-of-type(4) {
+        display:none;
+    }
+    .works li:nth-of-type(5) {
+        display:none;
+    }
+    .works li {
+        width: 300px;
+    }
+    .works li img {
+        width: 300px;
+    }
     .test {
         background-size: cover;
+    }
+    .test blockquote {
+        font-size: 12px;
+        height: 85px;
+        width: 300px;
+    }
+    /*.test :nth-of-type(2) {
+        display: none;*/
     }
     .blog1  {
         display: block; 
@@ -79,12 +130,99 @@
         display: block;
     }
     .blog1 li {
-        width: 150px;
+        width: 161px;
+        height: 199px;
     }
-     .blog2 li {
+    .blog1 a {
+        height: 30px;
+    }
+    .blog2 li {
+        width: 161px;
+        height: 199px;
+    }
+    .blog2 a {
+        height: 30px;
+    }
+    .blog1 h6 {
+        position: relative;
+        bottom: 13px;
+    }
+    .blog1 h6:nth-of-type(1) {
+        font-size: 10.93px;
+    }
+    .blog1 h6:nth-of-type(2) {
+        font-size: 10.85px;
+    }
+    .blog2 h6 {
+        font-size: 10.79px;
+        position: relative;
+        bottom: 13px;
+    }
+    .blog2 li {
         width: 150px;
     }
     .blog1 li > img, .blog2 li > img {
         width: 150px;
     }
-
+    .projects {
+        display: none;
+    }
+    .apps span {
+        display: none;
+    }
+    .apps li {
+        height: 17px;
+        width: 137px;
+        padding-right: 26px;
+    }
+    .apps img {
+        width: 137px;
+        padding-left: 31px;
+    }
+    .news h4 {
+        font-size: 12px;
+        padding-right: 150px;
+        display: block;
+        position: relative;
+        top: 30px;
+        margin-bottom: 10px;
+    }
+    .news input[type="text"] {
+        padding: 0px;
+        width: 110px;
+        height: 25px;
+        font-size: 12px;
+    }
+    .news form {
+        margin-left: 211px;
+    }
+    .email {
+        width: 30px;
+        height: 25px;
+    }
+    .contact input {
+        width: 301px;
+        margin-left: 30px;
+    }
+    .contact textarea {
+        width: 301px;
+        margin-left: 29px;
+        height: 83px;
+    }
+    .contact button {
+        margin-left: 1px;
+    }
+    .contact label {
+        width: 370px;
+    }
+    footer div {
+        font-size: 13px;
+        width: 201px;
+        padding-top: 13px;
+        padding-right: 0px;
+        padding-left: 60px;
+    }
+    footer ul {
+        width: 317px;
+        padding-left: 22px;
+    }
