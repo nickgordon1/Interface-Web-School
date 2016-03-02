@@ -728,6 +728,7 @@ a.greenlink {
 }
 .blog div {
     position: relative;
+    display: inline-block;
 }
 .blog h6 {
     margin-top: 23px;
