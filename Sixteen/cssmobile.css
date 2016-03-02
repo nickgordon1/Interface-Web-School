@@ -114,6 +114,9 @@
     .works li:nth-of-type(5) {
         display:none;
     }
+    .workpix li:nth-of-type(3) {
+    height: 251px;
+    }
     .works li {
         width: 300px;
     }
@@ -152,6 +155,7 @@
     }
     .blog1 a {
         height: 30px;
+        line-height: 31px;
     }
     .blog2 li {
         width: 161px;
@@ -159,6 +163,7 @@
     }
     .blog2 a {
         height: 30px;
+        line-height: 31px;
     }
     .blog1 h6 {
         position: relative;

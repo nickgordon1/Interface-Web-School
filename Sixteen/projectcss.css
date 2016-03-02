@@ -515,6 +515,12 @@ a.greenlink {
 .workpix div {
     height: 100px;
 }
+.workpix li:nth-of-type(3) {
+    height: 314px;
+}
+.workpix li div:nth-of-type(3) {
+    display: block;
+}
 .apps {
     display: block;
     background-color: #ebebeb;
@@ -771,7 +777,8 @@ a.greenlink {
 .map img {
     z-index: 1;
     margin:auto;
-    padding-top: 192px;
+    padding-top: 225px;
+    padding-left: 58px;
     display: block;
 }
 .news input::-webkit-input-placeholder {
@@ -809,6 +816,9 @@ a.greenlink {
     height: 40px;
     width: 180px;
     text-align: center;
+}
+.news h4 {
+    display: inline-block;
 }
 .email {
     background: #fff url(Images/emailbutton.png) no-repeat center center;
