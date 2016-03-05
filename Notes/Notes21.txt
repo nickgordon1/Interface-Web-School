@@ -40,3 +40,27 @@ and employers will go for permanent placement
 
 techsystems
 modis
+
+
+ejohn.org
+
+using advanced selectors in jQuery+JavaScript is bad
+use traversal instead
+
+order of what JavaScript looks for first:
+id
+elements
+classes
+combinations
+
+.find()
+
+if your targeting one element chain your jQuery
+chaining is good
+target=_blank loads in a new page
+
+{}: object
+[]= array
+
+
+Add mark task to being done to todo app
