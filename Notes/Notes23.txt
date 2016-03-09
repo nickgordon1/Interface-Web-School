@@ -1,0 +1,40 @@
+download github code
+look at notes
+due monday
+24th might end before then
+wordpress content management system
+inbound marketing (book)
+
+jQuery plugin
+a piece of code that relies on jquery
+add additional funtions to jquery
+just has to do soemthing
+its in your javascript
+nothing fancy with jquery plugins
+they become fancy over time
+NPM Node Package Manager
+gets node code and installs it on to your project
+you can use it to install anything that doesnt even involve node
+NPMJS.com
+use on the command line to install otehr peoples code that was written in that language
+all backend languages have a package manager
+some have multiple
+jquery-plugin
+mean stack
+stack-set of languages
+software artitecht
+each stack in its name has an acronym in it of teh laguage it is
+mongo express angular node
+all javascript
+frontend framework backend framework database framework in each stack
+mongo is the datatbase storage (javascript)
+mongo stores javascript objects
+express or express js framework for your server (javascript)
+angular js all frontend (javascript)
+includes templating and binding and storage
+handle bar js is a templating language
+makes a bunch of js templates and reuse them over and over
+node is backend language
+MEAN stack
+KEEP LEARNING!
+pick up a new language
