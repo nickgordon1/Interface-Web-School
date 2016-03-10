@@ -1,0 +1,180 @@
+the best offense is a good defense
+cleaner code means it will be more searchable
+search engines ignore sloppy code
+
+layout
+most cross browser layout problems are your fault
+clean code is the best tool
+less code and simple code
+always understand your own code
+check feature compability (caniuse.com)check all modern broswers
+use comments clean and consistent
+BLOCK YOUR CODE
+use spaces where you should
+BE CONSISTANT!
+USE COMMENTS WISLEY AND SPARRINGLY
+if you need alot of comments that means you probably need something easier
+personal reccomention
+new sites
+build a layout first
+test it thoroughly
+test the layout
+what does clean code look like?
+use float sparringly
+block and format
+close your tgs
+validate your code
+test your code
+hot to check for problems
+always use the inspect tool
+look at it inspect and click on everything and try something immdeiatley
+MOMENTUM IS KEY!
+check console for errors
+always keep console open
+live preview is the devil
+check for missing end tags
+ALWAYS IMMEDIATLEY BLOCK
+validator.w3.org (it will tell you if theres problem with your code) (use with a grain of salt)
+hint and lint (advice on your code while your coding)
+
+TESTING
+
+Multiple browsers
+old versions
+open your page on mobile devices
+use a testing tool
+always open stuff up in firefox if using chrome
+fire fox uses a different rendering engine
+chrome safari and opera are the same basically
+firefox, chrome , ie use all different rendering engines
+check mobile they use different rendering engines
+use a tesing platform
+top ones are:
+browserstack (subscription)
+sauce labs (subscription)
+
+TESTING TOOLS
+caniuse.com
+broswershots
+modern.ie (mac ie virtual machine) (ie edge, 11, 10)
+test firefox and chrome
+use reset.css or normalize.css (always start with this)
+use vendor prefixes (always always!)
+
+IE Testing
+Max amount of RAM possible 
+virtual box
+modern.ie
+
+Automated Testing
+QA- quality assurance
+write automated tests in javascript 
+once you write these tests there are browser addons that tells the browser what to do.
+run form commandline when you build them
+selenium jasmine q-unit
+
+PERFORMANCE
+google page speed insights
+
+File Size-
+Optimize image
+Minify CSS and JavaScript (Gulp automate stuff (they can minify code)) Minify when your done
+Optimize video (HTML5 Video background is a exception)
+
+File Location-
+CDN (be consistent) (for media like a lot of photos or videos)
+Same server (non media files should always be on the same server)
+Media server
+Database server
+
+Number of files-
+CSS use link instead of @import
+keep your libraries apart and your custom code apart
+tons of custom css should be broken up into seperate files
+task runner can combine files for you when you deploy your site
+
+JavaScript look up "requiredjs"
+is a javascript library which manages alot of javascript files
+consider using a cdn for your javascript libraries
+
+Images consider using sprite
+a set of images combines in to one image
+bunch of tiny icons are perfect for a sprite
+background-position to put which image you need
+use glyphs or fonts
+a font of icons basically
+SVG(scalable vector graphic)
+
+Order of files-
+*CSS first
+*dependant libraries first (reset)
+*critical CSS should be next (layout)
+*most common to the least common
+*if writing responsive put that last
+ 
+JavaScript order of files-
+*libraries first
+*critical javascript next
+*most common to least common
+*consider using requirejs
+*consider using local storage
+*consider preloading (google methods)(put it in an invisible img tag)
+
+Server Location-
+closest to your target audience (find out where there data centers are)
+closest to your or your site owner
+CDN for big content (not justf or handling heavy files they are for handleing a bunch of visitors from different locations)
+Budget and prioritize
+
+Server Speed-
+location
+avoid hosting media
+get dynamic speed if you can(if no one visits your site means it cost 0$)
+consider getting a host that knows that language
+
+caching-
+all servers are considered
+your browser will cache large files
+static files
+meta tags on the header to tell the browser whats static
+be careful of over cacheing
+disable caching while developing
+
+javascript optimization-
+traversal (chain things)
+optimize your selectors
+dont load unnesesary code
+use on load or document.ready
+beware of loops listeners and timeouts
+use variables and functions
+
+3d rendering and canvas-
+always understand combaatability risks
+use libraries very carefully
+do things from scratch if you can
+always test on slow browsers
+always consider using warning messages
+use 3d rendering and canvas sparingly
+
+Performance tools
+grunt and gulp
+bower package manager
+node or npm
+initializer for creating boilerplates
+css generators
+
+Performance testing tools
+in inspector
+Audits
+Timeline
+Pingdom monitoring up and down time (all in one tool)
+free tools provided by host
+W3validator can test 
+Hint and Lint can provide advice
+googleanalytics
+consider buying an all in one tool
+
+
+
+
+

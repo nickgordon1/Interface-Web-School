@@ -143,6 +143,14 @@
         position: relative;
         top: 285px;
     }
+    .test ul {
+      margin-left: 0px;
+    }
+    .test li:first-of-type {
+      margin-right: 31px;
+      position: relative;
+      left: 90px;
+    }
     .blog1  {
         display: block; 
     }

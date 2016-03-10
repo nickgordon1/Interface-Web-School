@@ -538,11 +538,17 @@ a.greenlink {
     font-family: "Source Sans Pro"; 
     background: url("Images/testimonialbackground.png") no-repeat center center;
 }
+.test div {
+  display: inline-block;
+}
 .test h5 {
     font-size: 30px;
     font-family: "Source Sans Pro";
     font-weight: 300;
     color: #f7f7f7;
+    text-align: center;
+    position: relative;
+    left: 30px;
 }
 .test p {
     font-size: 18px;
@@ -550,11 +556,15 @@ a.greenlink {
     line-height: 1.25em;
     color: #f7f7f7;
     font-weight: 300;
+    width: 298px;
 }
 .test li {
     display: inline-block;
     width: 370px;
     vertical-align: top;
+}
+.testpanda {
+    float: left;
 }
 .test blockquote {
     background: url("Images/blockquotes.png") no-repeat top center;
@@ -580,11 +590,6 @@ a.greenlink {
     border-radius: 50%;
     display: inline-block;
 }
-.test li div {
-    display: inline-block;
-    margin-left: 28px;
-    vertical-align: top;
-}
 .test h6 {
     font-family: "Source Sans Pro";
     font-weight: bold;
@@ -606,6 +611,12 @@ a.greenlink {
 }
 .test li:first-of-type {
     margin-right: 31px;
+    position: relative;
+    left: 140px;
+}
+.test li:nth-of-type(2) {
+    position: relative;
+    left: 140px; 
 }
 .test a.greenlink {
     font-size: 18px;
