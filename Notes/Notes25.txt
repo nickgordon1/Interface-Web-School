@@ -1,0 +1,94 @@
+Accessability*
+Why does it matter?  http://a11yproject.com/about.html
+Overview: http://a11yproject.com/checklist.html
+Accessibility is hard :( - The A11Y Project
+The A11Y Project aims to make accessibility easier
+Web Accessibility Checklist - The A11Y Project
+A beginner's guide to web accessibility
+A11Y
+Internationalization(translation)
+I18N
+
+Aria landmarks
+AT assissted tech
+checkpoints for assissted technonolgy
+its a browseer that reads the page outloud or higher contrast. It assists pages that need assistance
+Little attriuctes that you put on your html elements that tell the browser where important parts of the page are
+banner
+navigation
+main
+article
+complemtentary
+content info and search
+
+MARCH 24TH 6pm
+
+Document outline
+it used to structure your page
+this is how you structure things without using visuals
+HTML Outliner*​ https://gsnedders.html5.org/outliner/
+More info: symantics book called dive in to html5 posted free online
+
+Linksensure that you have the focus state styled :focus
+works on all elements
+when your walking through a form and you press tab than tab to the next box an dits highlighted blue thats the focus state
+Ensure your links are visiualy distinct
+skip to content links
+great to use for people who are using alternate browsers for accessability
+Dont remove outline styles from links
+DONT REMOVE OUTLINES
+# is to make sure a page doesnt reload
+# marks in the url will tell the browser to skip to that id in the html
+these dont animate
+it will jump instantly which can be bad :/ 
+
+Images
+HTML validator that all img tags ahave an alt attribute 
+alt="" (it will read the value of the alt text on other browsers for accessability eg. screen reader)
+you can style this text as well
+you have to put an alt attribute to all img tasg to me valid
+Make sure they support retina displays
+saving all the images to exactly 2x the size and downscaling with image
+Image is a background and needs an alt attribute
+youll need a sr-only
+
+JavaScript
+dont use inline scripts
+dont use attributes like on load
+there are browsers that wont except them
+Consider supporting node javascript browsers
+use accessable libraries
+
+Forms
+use a logical order for the form
+use a tabindex=1 it sets the order that the form tabs to next
+always use label elements
+dont use placeholders without labels
+once they type in it they cant see what it is
+group related elements with field set
+this will seperate the form
+legends are used to label the field set
+
+Audio/Video
+another reason to not host your own video
+have a text transcript for the video
+provide syncronize subtitles
+YouTube has it built in
+in general have text replacements for all media
+This is great for podcasts
+
+Color and Contrast
+test your site for its color and contrast
+there should be enough contrast that you can see it in black and white
+easy to test
+Test for different tyoes of blindess
+colorblind or otherwise
+
+Testing
+not use the mouse when traversing your website
+using a screen reader on your site
+use your voice to navigate using those tools
+download the AT tools and use them for yourself
+most of them cost money
+
+

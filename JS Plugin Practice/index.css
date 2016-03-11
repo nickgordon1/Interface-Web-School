@@ -86,3 +86,9 @@
   0% { transform: none; transform: none; }
   100% { transform: translate(-32px, 0); transform: translate(-32px, 0); }
 }
+body {
+  font-family: "Roboto";
+}
+.layer img {
+  width: 100%;
+}
