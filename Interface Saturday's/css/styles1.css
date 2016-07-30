@@ -1,0 +1,141 @@
+.wrap a img {
+  width: 45px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.menu-link a:hover {
+  text-decoration: none;
+}
+.inlineblock {
+  display: inline-block;
+}
+.panel li {
+  font-family: "Raleway";
+  font-size: 18px;
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+}
+.panel ul {
+  list-style-type: none;
+}
+.panel a {
+    padding-right: 30px;
+}
+.top {
+  text-align: center;
+}
+.top h1 {
+  font-family: "Pacifico";
+  font-size: 56px;
+  padding: 30px 0px 45px 0px;
+}
+.top p {
+  font-family: "Pacifico";
+  font-size: 36px;
+  padding: 45px 0px 45px 0px;
+}
+.top img {
+  width: 200px;
+}
+.aboutme p {
+  font-family: "Raleway";
+  text-align: center;
+  font-size: 20px;
+}
+.aboutme p:first-of-type {
+  text-align: center;
+  padding-bottom: 35px;
+}
+.aboutme p:nth-of-type(2) {
+  margin: 0 auto;
+  padding-bottom: 35px;
+  width: auto;
+}
+.city img {
+  width: 100%;
+  padding-top: 50px;
+}
+.whaticando h3 {
+  font-family: "Pacifico";
+  font-size: 56px;
+}
+.whaticando p {
+  font-family: "Raleway";
+  font-size: 20px;
+  width: auto;
+}
+.tools p {
+  font-family: "Raleway";
+  font-size: 20px;
+  width: auto;
+}
+.tools h3 {
+  font-family: "Pacifico";
+  font-size: 56px;
+  padding-top: 75px;
+}
+.containerr {
+  text-align: center;
+  padding-top: 45px;
+}
+.containerl {
+  text-align: center;
+  padding-left: 25px;
+}
+.projects {
+  text-align: center;
+  vertical-align: middle;
+  font-family: "Pacifico";
+  font-size: 56px;
+}
+.nelson p {
+  font-family: "Raleway";
+  font-size: 20px;
+  width: auto;
+}
+.sixteen p {
+  font-family: "Raleway";
+  font-size: 20px;
+  width: auto;
+}
+.todoapp p {
+  font-family: "Raleway";
+  font-size: 20px;
+  width: auto;
+}
+.resume object {
+  padding-top: 35px;
+}
+.social ul {
+  display: inline-block;
+  text-align: center;
+}
+.social li {
+  padding: 0 5px;
+  border-bottom: none;
+  display: inline-block;
+  }
+.social ul:first-of-type {
+  font-family: "Raleway";
+  font-size: 15px;
+  width: auto;
+}
+.social1 ul {
+  padding-top: 15px;
+  position: relative;
+  right: 70px;
+}
+.social2 ul {
+  float:right;
+}
+.wrap {
+  position: relative;
+}
+ /*div and containers on all 4
+ containers right or left
+ div inlineblock*/
+.panel {
+  position: fixed;
+  left: -8.625em; /*left or right and the width of your navigation panel*/
+  width: 8.625em; /*should match the above value*/
+}
